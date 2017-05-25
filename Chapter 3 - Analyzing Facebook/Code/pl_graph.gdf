@@ -1,0 +1,3394 @@
+nodedef>name VARCHAR,username VARCHAR,label VARCHAR,category VARCHAR,post_activity FLOAT,fan_count INT,talking_about_count INT,users_can_post VARCHAR,link VARCHAR
+10,premierleague,'Premier League',Sports League,0.31,39301910,634081,no,https://www.facebook.com/premierleague/
+20,TAGHeuer,'TAG Heuer',Jewelry/Watches,0.14,2823063,30796,no,https://www.facebook.com/TAGHeuer/
+30,Carling,'Carling',Food & Beverage Company,0.03,200508,12078,yes,https://www.facebook.com/Carling/
+40,hulltigersofficial,'Hull Tigers',Sports Team,0.23,1000560,40500,yes,https://www.facebook.com/hulltigersofficial/
+50,MFCofficial,'Middlesbrough FC',Sports Team,0.29,431967,25042,no,https://www.facebook.com/MFCofficial/
+60,officialburnleyfc,'Burnley Football Club',Sports Team,0.19,352042,3279,no,https://www.facebook.com/officialburnleyfc/
+70,watfordfc,'Watford FC',Sports Team,0.11,362231,11308,yes,https://www.facebook.com/watfordfc/
+80,afcbournemouth,'AFC Bournemouth',Sports Team,0.54,326942,12651,yes,https://www.facebook.com/afcbournemouth/
+90,lcfc,'Leicester City Football Club',Sports Team,0.51,6554721,218176,no,https://www.facebook.com/lcfc/
+100,officialcpfc,'Crystal Palace Football Club',Sports Team,0.27,1004518,18338,yes,https://www.facebook.com/officialcpfc/
+110,westhamunited,'West Ham United',Sports Team,0.23,1922014,64655,yes,https://www.facebook.com/westhamunited/
+120,southamptonfc,'Southampton FC',Sports Team,0.93,1600314,28713,yes,https://www.facebook.com/southamptonfc/
+130,lovegreatbritain,'Love GREAT Britain',Travel Company,0.04,3223885,12795,yes,https://www.facebook.com/lovegreatbritain/
+140,Everton,'Everton Football Club',Sports Team,0.25,2851502,73910,no,https://www.facebook.com/Everton/
+150,nikefootball,'Nike Football',Product/Service,0,42498785,134458,no,https://www.facebook.com/nikefootball/
+160,westbromwichalbionofficial,'West Bromwich Albion',Sports Team,0.26,734027,12075,no,https://www.facebook.com/westbromwichalbionofficial/
+170,TottenhamHotspur,'Tottenham Hotspur',Sports Team,0.38,8211881,535331,no,https://www.facebook.com/TottenhamHotspur/
+180,SwanseaCityFC,'Swansea City Football Club',Sports Team,0.48,1319202,13655,no,https://www.facebook.com/SwanseaCityFC/
+190,sunderlandafc,'Sunderland AFC',Sports Team,0.33,1695955,10999,no,https://www.facebook.com/sunderlandafc/
+200,stokecity,'Stoke City Football Club',Sports Team,0.26,1295190,23266,no,https://www.facebook.com/stokecity/
+210,manchesterunited,'Manchester United',Sports Team,0.56,72214897,1618239,yes,https://www.facebook.com/manchesterunited/
+220,mancity,'Manchester City',Sports Team,0.28,22577689,700743,yes,https://www.facebook.com/mancity/
+230,LiverpoolFC,'Liverpool FC',Sports Team,0.39,29538964,325452,yes,https://www.facebook.com/LiverpoolFC/
+240,Arsenal,'Arsenal',Sports Team,0.27,37481700,657462,no,https://www.facebook.com/Arsenal/
+250,ChelseaFC,'Chelsea Football Club',Sports Team,0.34,47253090,1301568,yes,https://www.facebook.com/ChelseaFC/
+260,BarclaysFootball,'Barclays Football',Sports League,0.02,3995250,42364,no,https://www.facebook.com/BarclaysFootball/
+270,easports,'EA SPORTS',Games/Toys,0.01,5800113,7571,yes,https://www.facebook.com/easports/
+280,BMCProTeam,'BMC Racing Team',Sports Team,0.09,450368,13855,yes,https://www.facebook.com/BMCProTeam/
+290,LaLiga,'LaLiga',Sports League,0.72,26168896,970684,yes,https://www.facebook.com/LaLiga/
+300,DanielRicciardo,'Daniel Ricciardo',Athlete,0.02,758110,32310,no,https://www.facebook.com/DanielRicciardo/
+310,redbullracing,'Red Bull Racing',Sports Team,0.05,6523385,196070,no,https://www.facebook.com/redbullracing/
+320,DavidGuetta,'David Guetta',Musician/Band,0.02,54789663,95771,no,https://www.facebook.com/DavidGuetta/
+330,sabine3racing.ch,'Sabine Holbrook',Athlete,0.02,27515,2310,yes,https://www.facebook.com/sabine3racing.ch/
+340,hlundqvist30,'Henrik Lundqvist',Athlete,0,322842,5158,yes,https://www.facebook.com/hlundqvist30/
+350,jeremylin7,'Jeremy Lin 林書豪',Athlete,0.01,3748395,4532,yes,https://www.facebook.com/jeremylin7/
+360,baselworld,'Baselworld - The Watch and Jewellery Show',Local Business,0.01,65829,338,yes,https://www.facebook.com/baselworld/
+370,CaraDelevingneOfficialPage,'Cara Delevingne',Public Figure,0.03,5907646,201617,yes,https://www.facebook.com/CaraDelevingneOfficialPage/
+380,lacarrerapanamericana,'La Carrera Panamericana',Stadium, Arena & Sports Venue,0.14,67132,2130,yes,https://www.facebook.com/lacarrerapanamericana/
+390,patrickdempseyofficial,'Patrick Dempsey',Artist,0.02,1736139,6344,yes,https://www.facebook.com/patrickdempseyofficial/
+400,DempseyRacing,'Dempsey Racing',Sports Team,0,32519,20,yes,https://www.facebook.com/DempseyRacing/
+410,,'OnTheDash',Community,0,513,1,yes,https://www.facebook.com/OnTheDash-410/
+420,fiaformulae,'FIA Formula E',Sports League,0.53,251657,14809,yes,https://www.facebook.com/fiaformulae/
+430,rushmovie,'RUSH',Movie,0,659177,265,yes,https://www.facebook.com/rushmovie/
+440,lvmh,'LVMH',Company,0.02,231300,1378,no,https://www.facebook.com/lvmh/
+450,GrandPrixHorlogerieGeneve,'Grand Prix d'Horlogerie de Genève',Non-Profit Organization,0.03,4381,39,yes,https://www.facebook.com/GrandPrixHorlogerieGeneve/
+460,VintageHeuer,'Vintage Heuer',Shopping/Retail,0.02,2334,91,yes,https://www.facebook.com/VintageHeuer/
+470,calibre11,'Calibre 11',Jewelry/Watches,0.01,5687,44,yes,https://www.facebook.com/calibre11/
+480,festivalofspeed,'Goodwood Festival of Speed',Performance & Sports Venue,0.23,314630,15697,yes,https://www.facebook.com/festivalofspeed/
+490,keinishikori,'Kei Nishikori',Athlete,0.03,689867,24414,no,https://www.facebook.com/keinishikori/
+500,,'TAG Heuer 360 - the world’s first 360 Degree Watchmaking Museum',Community,0,2760,6,yes,https://www.facebook.com/TAG-Heuer-360-the-worlds-first-360-Degree-Watchmaking-Museum-500/
+510,AliceGoldMusic,'Alice Gold',Musician/Band,0,38170,33,yes,https://www.facebook.com/AliceGoldMusic/
+520,,'The Carling Local at V Festival',Local Business,0,111,0,no,https://www.facebook.com/pages/The-Carling-Local-at-V-Festival/520
+530,scottishcup,'The Scottish Cup',Sports League,0.04,57090,1267,no,https://www.facebook.com/scottishcup/
+540,iwfestival,'Official Isle of Wight Festival',Performance & Sports Venue,0.09,107428,1948,yes,https://www.facebook.com/iwfestival/
+550,vfestival,'V Festival',Event,0.01,526718,1718,yes,https://www.facebook.com/vfestival/
+560,scotlandnationalteam,'Scotland National Team',Sports Team,0.04,463633,1083,no,https://www.facebook.com/scotlandnationalteam/
+570,Tigerssportandeducationtrust,'Tigers Trust',Non-Profit Organization,0.04,2063,69,yes,https://www.facebook.com/Tigerssportandeducationtrust/
+580,TeenageCancerTrust,'Teenage Cancer Trust',Non-Profit Organization,0.08,177865,890,yes,https://www.facebook.com/TeenageCancerTrust/
+590,hulltigerscommercial,'Hull Tigers Commercial’',Organization,0,1936,2,yes,https://www.facebook.com/hulltigerscommercial/
+600,HullArabic,'Hull Tigers Arabic',Sports Team,0.01,260254,428,yes,https://www.facebook.com/HullArabic/
+610,AndyDawsonTestimonial,'Andy Dawson Testimonial',Athlete,0.01,2326,2,yes,https://www.facebook.com/AndyDawsonTestimonial/
+620,SportsArenaHull,'Sports Arena Hull',Stadium, Arena & Sports Venue,0,1387,2,yes,https://www.facebook.com/SportsArenaHull/
+630,KCStadiumConferenceandEvents,'Tiger Events Hull',Stadium, Arena & Sports Venue,0.01,1846,26,yes,https://www.facebook.com/KCStadiumConferenceandEvents/
+640,OfficialLeedsBradfordAirport,'Leeds Bradford Airport',Airport,0.02,16172,2066,no,https://www.facebook.com/OfficialLeedsBradfordAirport/
+650,diamondevents.northeastweddingfayres,'Diamondevents Northeast Weddingfayres',Event Planning Service,0.35,5780,207,yes,https://www.facebook.com/diamondevents.northeastweddingfayres/
+660,RememberingGeorgina,'Remembering Georgina',Musician/Band,0.01,13198,5,yes,https://www.facebook.com/RememberingGeorgina/
+670,Discovermiddlesbrough,'Discover Middlesbrough',Organization,0.03,2143,30,yes,https://www.facebook.com/Discovermiddlesbrough/
+680,middlesbroughladies,'Middlesbrough Ladies',Sports Team,0.04,2606,400,yes,https://www.facebook.com/middlesbroughladies/
+690,clevelandpolice,'Cleveland Police',Government Organization,0.29,37409,1464,no,https://www.facebook.com/clevelandpolice/
+700,eaEston,'Everyone Active - Eston Leisure Centre',Recreation & Fitness,0.05,4825,76,yes,https://www.facebook.com/eaEston/
+710,mfcfoundation,'MFC Foundation',Community,0.04,2919,336,no,https://www.facebook.com/mfcfoundation/
+720,CoachesAcrossContinents,'Coaches Across Continents',Product/Service,0.06,8197,237,yes,https://www.facebook.com/CoachesAcrossContinents/
+730,,'MDSA',Non-Profit Organization,0,289,0,yes,https://www.facebook.com/MDSA-730/
+740,britishlivertrust,'British Liver Trust',Non-Profit Organization,0.05,3478,204,yes,https://www.facebook.com/britishlivertrust/
+750,JuninhoPaulistaOficial,'Juninho Paulista',Athlete,0,19825,13,yes,https://www.facebook.com/JuninhoPaulistaOficial/
+760,TransporterBridge,'Tees Transporter Bridge',Landmark & Historical Place,0.05,4500,116,yes,https://www.facebook.com/TransporterBridge/
+770,adidas,'adidas',Company,0.02,25678001,65817,no,https://www.facebook.com/adidas/
+780,zoesplacebabyhospicemiddlesbrough,'Zoes Place Baby Hospice- Middlesbrough',Cause,0.04,17346,531,no,https://www.facebook.com/zoesplacebabyhospicemiddlesbrough/
+790,TeessideHospice,'Teesside Hospice',Non-Profit Organization,0.06,7684,139,yes,https://www.facebook.com/TeessideHospice/
+800,RamsdensUK,'RAMSDENS',Retail Company,0.04,4334,67,no,https://www.facebook.com/RamsdensUK/
+810,lovemiddlesbrough,'Love Middlesbrough',Government Organization,0.09,9677,185,yes,https://www.facebook.com/lovemiddlesbrough/
+820,,'Middlesbrough Official Supporters Club (M.O.S.C)',Community Organization,0.01,648,0,yes,https://www.facebook.com/Middlesbrough-Official-Supporters-Club-MOSC-820/
+830,DafabetUK,'Dafabet UK',Website,0.05,3597,518,yes,https://www.facebook.com/DafabetUK/
+840,,'Safehands Nursery at Barnoldswick',Education,0,168,1,yes,https://www.facebook.com/Safehands-Nursery-at-Barnoldswick-840/
+850,barnfieldconstruction,'Barnfield Construction Limited',Business Service,0.01,370,4,yes,https://www.facebook.com/barnfieldconstruction/
+860,barnfieldhomes,'Barnfield Homes',Company,0.01,557,54,yes,https://www.facebook.com/barnfieldhomes/
+870,kevrileyentertainment,'Kev Riley Entertainment',Arts & Entertainment,0,964,18,yes,https://www.facebook.com/kevrileyentertainment/
+880,LivFoxPhotography,'Liv Fox Photography',Local Business,0.01,333,13,yes,https://www.facebook.com/LivFoxPhotography/
+890,,'Split Screen Wedding Dreams',Event Planning Service,0,91,0,yes,https://www.facebook.com/Split-Screen-Wedding-Dreams-890/
+900,AtmosphereweddingsandEvents,'Atmosphere Venue Dressing - Lancashire',Professional Service,0.02,1705,39,yes,https://www.facebook.com/AtmosphereweddingsandEvents/
+910,ShaunMcCreeMagician,'Shaun McCree',Public Figure,0,184,1,yes,https://www.facebook.com/ShaunMcCreeMagician/
+920,hayleylouisephoto,'Hayley Louise Photography',Local Business,0,388,3,yes,https://www.facebook.com/hayleylouisephoto/
+930,balloonandpartystation,'Balloon & Party Station',Event Planning Service,0.02,4018,22,yes,https://www.facebook.com/balloonandpartystation/
+940,alexoneillphotographer,'Alex O'Neill Photography',Professional Service,0.02,1810,104,yes,https://www.facebook.com/alexoneillphotographer/
+950,PierFunCasinos,'Pier Fun Casinos Event Management Ltd',Local Business,0.07,607,8,yes,https://www.facebook.com/PierFunCasinos/
+960,Lettersinlights,'Letters In Lights',Event Planning Service,0.01,3986,30,yes,https://www.facebook.com/Lettersinlights/
+970,claretsconnected,'Clarets Connected',Product/Service,0,44,1,yes,https://www.facebook.com/claretsconnected/
+980,,'BBC Radio Lancashire',Radio Station,0,5989,0,no,https://www.facebook.com/pages/BBC-Radio-Lancashire/980
+990,OfficialQPRFC,'QPR FC',Sports Team,0.63,737686,5519,yes,https://www.facebook.com/OfficialQPRFC/
+1000,newcastleunited,'Newcastle United',Sports Team,0.4,2066786,17579,no,https://www.facebook.com/newcastleunited/
+1010,avfcofficial,'Aston Villa FC - Official',Sports Team,0.33,2323467,23309,no,https://www.facebook.com/avfcofficial/
+1020,burnleyfccommunity,'Burnley FC in the Community',Non-Profit Organization,0.12,6136,329,yes,https://www.facebook.com/burnleyfccommunity/
+1030,pendleleisureofficial,'Pendle Leisure Trust',Organization,0.03,2388,144,yes,https://www.facebook.com/pendleleisureofficial/
+1040,MyproteinUK,'Myprotein',Vitamins/Supplements,0.26,1413769,11112,no,https://www.facebook.com/MyproteinUK/
+1050,althams.todmorden,'Althams Travel Todmorden',Travel Company,0.08,1124,77,yes,https://www.facebook.com/althams.todmorden/
+1060,GenesisSportsUK,'Genesis Sports',Outdoor & Sporting Goods Company,0.03,7316,49,no,https://www.facebook.com/GenesisSportsUK/
+1070,kickitoutofficial,'Kick It Out',Non-Profit Organization,0.11,9677,31,yes,https://www.facebook.com/kickitoutofficial/
+1080,prostatecanceruk,'Prostate Cancer UK',Non-Profit Organization,0.09,60731,4969,yes,https://www.facebook.com/prostatecanceruk/
+1090,totallywickeduk,'Totally Wicked e-liquid - UK',Product/Service,0.14,36051,267,yes,https://www.facebook.com/totallywickeduk/
+1100,VisitLancashire,'visit Lancashire',Website,0.4,12773,198,yes,https://www.facebook.com/VisitLancashire/
+1110,theEFL,'EFL',Sports League,0.51,1062668,16258,yes,https://www.facebook.com/theEFL/
+1120,charterwalk.burnley,'Charter Walk, Burnley',Shopping/Retail,0.04,2623,7,yes,https://www.facebook.com/charterwalk.burnley/
+1130,americancrewuk,'American Crew UK',Health/Beauty,0.01,6502,800,yes,https://www.facebook.com/americancrewuk/
+1140,burnleyexpress,'Burnley Express',Media/News Company,0.94,26260,4754,yes,https://www.facebook.com/burnleyexpress/
+1150,harrygarlick,'Harry Garlick',Shopping/Retail,0.03,3096,50,yes,https://www.facebook.com/harrygarlick/
+1160,fun88.eng,'Fun88',Website,0.01,3228,39,yes,https://www.facebook.com/fun88.eng/
+1170,fun88angels,'Fun88angels',Public Figure,0,2394,14,yes,https://www.facebook.com/fun88angels/
+1180,,'English Football League',Sports League,0,19581,0,no,https://www.facebook.com/pages/English-Football-League/1180
+1190,harveynichols,'Harvey Nichols',Retail Company,0.04,187856,704,no,https://www.facebook.com/harveynichols/
+1200,PumaFootball,'PUMA Football',Outdoor & Sporting Goods Company,0.01,2353356,26471,no,https://www.facebook.com/PumaFootball/
+1210,sealymattress,'SEALY MATTRESS',Product/Service,0.03,532484,212,yes,https://www.facebook.com/sealymattress/
+1220,fun88.viet,'Fun88.Viet',Website,0.25,53622,1290,yes,https://www.facebook.com/fun88.viet/
+1230,,'Fun88',Local Business,0,361,0,no,https://www.facebook.com/pages/Fun88/1230
+1240,byofficialappointment,'By Official Appointment - Burnley FC',Local Business,0,670,0,yes,https://www.facebook.com/byofficialappointment/
+1250,SoccerSix,'CUP Soccer Six',Organization,0.01,11317,10,yes,https://www.facebook.com/SoccerSix/
+1260,TheFACup,'The Emirates FA Cup',Sports League,0.77,973722,45005,no,https://www.facebook.com/TheFACup/
+1270,,'New York Hornets',Community,0,787,2,yes,https://www.facebook.com/New-York-Hornets-1270/
+1280,Almen.Abdi,'Almen Abdi',Athlete,0.01,9176,285,yes,https://www.facebook.com/Almen.Abdi/
+1290,EFLCup,'EFL Cup',Sports League,0.05,228555,4135,yes,https://www.facebook.com/EFLCup/
+1300,thefootballleaguepaper,'The Football League Paper',Media/News Company,0.1,3259,120,yes,https://www.facebook.com/thefootballleaguepaper/
+1310,footballmanager,'Football Manager',Video Game,0.04,1131836,1698,no,https://www.facebook.com/footballmanager/
+1320,PUMA,'PUMA',Clothing (Brand),0.03,17007700,6315,no,https://www.facebook.com/PUMA/
+1330,thehappyeggco,'the happy egg co.',Food & Beverage Company,0.02,51684,320,yes,https://www.facebook.com/thehappyeggco/
+1340,,'OPublishing and Media Ltd',Professional Service,0,289,1,yes,https://www.facebook.com/OPublishing-and-Media-Ltd-1340/
+1350,hospiceuk,'Hospice UK',Non-Profit Organization,0.02,6768,123,yes,https://www.facebook.com/hospiceuk/
+1360,AnthonyNolan,'Anthony Nolan',Non-Profit Organization,0.08,77903,20016,yes,https://www.facebook.com/AnthonyNolan/
+1370,,'WIFC',Amateur Sport Team,0,312,1,yes,https://www.facebook.com/WIFC-1370/
+1380,TheJayDeMeritStory,'Rise and Shine The Jay DeMerit Story',Movie,0,5858,43,yes,https://www.facebook.com/TheJayDeMeritStory/
+1390,watfordobserver,'Watford Observer',Media/News Company,1.05,13653,2382,yes,https://www.facebook.com/watfordobserver/
+1400,LKOLSE,'Late Kick Off (London and South East)',TV Show,0,2165,4,yes,https://www.facebook.com/LKOLSE/
+1410,WFCTrust,'Watford FC CSE Trust',Public Services & Government,0.01,1557,6,no,https://www.facebook.com/WFCTrust/
+1420,SkySports,'Sky Sports',TV Network,2.18,10530569,282674,yes,https://www.facebook.com/SkySports/
+1430,watfordpodcast,'From The Rookery End',Recreation/Sports Website,0.02,3105,80,yes,https://www.facebook.com/watfordpodcast/
+1440,VitalityUK,'Vitality UK',Insurance Company,0.29,38644,1243,yes,https://www.facebook.com/VitalityUK/
+1450,mansioncom,'Mansion',Company,0.01,2685,8,yes,https://www.facebook.com/mansioncom/
+1460,splashdownpoole,'SPLASHDOWN',Landmark & Historical Place,0.02,21054,70,yes,https://www.facebook.com/splashdownpoole/
+1470,RockRecruitmentSolutionsLtd,'Rock Recruitment',Local Business,0.01,913,7,yes,https://www.facebook.com/RockRecruitmentSolutionsLtd/
+1480,DaveMerrellArtwork,'Dave Merrell Artwork',Artist,0.01,1773,20,yes,https://www.facebook.com/DaveMerrellArtwork/
+1490,SkyBet,'Sky Bet',Company,0.17,489557,5183,no,https://www.facebook.com/SkyBet/
+1500,offsiderulepod,'The Offside Rule (We Get It!) Podcast',Community,0.01,1521,4,yes,https://www.facebook.com/offsiderulepod/
+1510,carlwilhelmakatemia,'CWA',School,0.01,1355,8,yes,https://www.facebook.com/carlwilhelmakatemia/
+1520,WhoScored,'WhoScored.com',Recreation/Sports Website,0.12,106228,1466,no,https://www.facebook.com/WhoScored/
+1530,BBCRadioSolent,'BBC Radio Solent',Radio Station,0.17,25395,2780,no,https://www.facebook.com/BBCRadioSolent/
+1540,tomgriffithsillustrations,'Tom Griffiths Illustrations',Artist,0.06,6074,309,no,https://www.facebook.com/tomgriffithsillustrations/
+1550,norfolkroyale,'Norfolk Royale Hotel',Local Business,0,1327,29,yes,https://www.facebook.com/norfolkroyale/
+1560,TheFootballPieLeague,'The H and C News Football Pie League',Sports League,0,1841,2,no,https://www.facebook.com/TheFootballPieLeague/
+1570,bournemouthdailyecho,'Bournemouth Daily Echo',Media/News Company,0.91,101601,21770,yes,https://www.facebook.com/bournemouthdailyecho/
+1580,fuchslfanseite,'Christian Fuchs',Athlete,0.01,271282,6958,no,https://www.facebook.com/fuchslfanseite/
+1590,davidlloydleisure,'David Lloyd Clubs',Health/Beauty,0.04,136669,1751,yes,https://www.facebook.com/davidlloydleisure/
+1600,Goekhan.Inler,'Gökhan Inler',Athlete,0.03,412324,5788,no,https://www.facebook.com/Goekhan.Inler/
+1610,ToyoTyreUk,'TOYO TIRES',Automotive Company,0.03,327183,42,yes,https://www.facebook.com/ToyoTyreUk/
+1620,AmazingThailand,'Amazing Thailand',Government Organization,0.1,1525770,5346,yes,https://www.facebook.com/AmazingThailand/
+1630,Kingpowerofficial,'King Power',Retail Company,0.13,435637,48189,yes,https://www.facebook.com/Kingpowerofficial/
+1640,AirAsiaThailand,'AirAsiaThailand',Cargo & Freight Company,0.05,1427058,19458,yes,https://www.facebook.com/AirAsiaThailand/
+1650,plumbimages,'Plumb Images',Business Service,0.01,1413,8,yes,https://www.facebook.com/plumbimages/
+1660,FoundationCPFC,'Crystal Palace FC Foundation',Community,0.04,1512,209,yes,https://www.facebook.com/FoundationCPFC/
+1670,PapeSouareOfficiel,'Pape Souarè',Athlete,0.03,3888,138,yes,https://www.facebook.com/PapeSouareOfficiel/
+1680,grpfx,'Global Reach Partners',Finance Company,0.02,8545,6,yes,https://www.facebook.com/grpfx/
+1690,mandanda30,'Steve Mandanda',Athlete,0.01,260276,218,no,https://www.facebook.com/mandanda30/
+1700,Wilfriedzaha,'Wilfried Zaha',Athlete,0.12,21786,13905,yes,https://www.facebook.com/Wilfriedzaha/
+1710,,'Emmanuel Adebayor',Athlete,0.02,1614914,38146,no,https://www.facebook.com/Emmanuel-Adebayor-1710/
+1720,PalaceTrust,'Crystal Palace Supporters Trust',Community Organization,0.06,4963,807,yes,https://www.facebook.com/PalaceTrust/
+1730,,'Yohan Cabaye Officiel',Athlete,0.01,182658,552,no,https://www.facebook.com/Yohan-Cabaye-Officiel-1730/
+1740,,'Connorwickham',Athlete,0,481,8,yes,https://www.facebook.com/Connorwickham-1740/
+1750,selhurstparkevents,'Selhurst Park',Event Planning Service,0.02,374,3,yes,https://www.facebook.com/selhurstparkevents/
+1760,cplfc92,'Crystal Palace Ladies Football Club',Community,0.04,2519,201,no,https://www.facebook.com/cplfc92/
+1770,YannickBolasieOfficial,'Yannick "Yala" Bolasie',Athlete,0.66,534896,31068,yes,https://www.facebook.com/YannickBolasieOfficial/
+1780,AdleneGuediouraOfficial,'Adlene Guedioura Official',Athlete,0.02,1439642,42869,yes,https://www.facebook.com/AdleneGuediouraOfficial/
+1790,SfFeghouli,'Sofiane Feghouli',Athlete,0.34,367101,12519,yes,https://www.facebook.com/SfFeghouli/
+1800,gokhantore7official,'Gökhan Töre',Athlete,0.01,508065,8255,no,https://www.facebook.com/gokhantore7official/
+1810,umbro,'Umbro',Company,0.03,618371,1242,no,https://www.facebook.com/umbro/
+1820,AfricaCupOfNationsOfficial,'CAF / Africa Cup of Nations',Sports Event,0.35,1304960,85413,no,https://www.facebook.com/AfricaCupOfNationsOfficial/
+1830,MondogoalOfficial,'Mondogoal',Internet Company,0.01,5929,8,yes,https://www.facebook.com/MondogoalOfficial/
+1840,,'West Ham United Ladies FC',Sports Team,0,7847,21,yes,https://www.facebook.com/West-Ham-United-Ladies-FC-1840/
+1850,jeremypiedofficiel,'Jérémy Pied',Athlete,0.03,819,15,yes,https://www.facebook.com/jeremypiedofficiel/
+1860,virginmedia,'Virgin Media',Telecommunication Company,9.94,401990,12127,yes,https://www.facebook.com/virginmedia/
+1870,Underarmour.uk,'Under Armour (GB, IE)',Product/Service,0.06,5523373,1056,yes,https://www.facebook.com/Underarmour.uk/
+1880,radhijaidi,'Radhi Jaïdi',Coach,0.02,94126,695,no,https://www.facebook.com/radhijaidi/
+1890,OriolRomeu6,'Oriol Romeu Vidal',Athlete,0.02,57546,413,no,https://www.facebook.com/OriolRomeu6/
+1900,NIXCommunications,'NIX Communications Group',Telecommunication Company,0.01,2834,52,yes,https://www.facebook.com/NIXCommunications/
+1910,F6NTE,'José Fonte',Athlete,0.01,77768,355,no,https://www.facebook.com/F6NTE/
+1920,octafx,'OctaFX',Finance Company,0.01,132484,2457,no,https://www.facebook.com/octafx/
+1930,gardos.ro,'Florin Gardos',Athlete,0.02,80179,537,yes,https://www.facebook.com/gardos.ro/
+1940,HarrisonReedOfficial,'Harrison Reed',Athlete,0,6529,13,no,https://www.facebook.com/HarrisonReedOfficial/
+1950,RyanBertrandOfficial,'Ryan Bertrand',Athlete,0.01,27958,48,yes,https://www.facebook.com/RyanBertrandOfficial/
+1960,Garmin,'Garmin',Product/Service,0.59,1445256,4275,yes,https://www.facebook.com/Garmin/
+1970,prowsey16,'James Ward-Prowse',Athlete,0.01,97484,224,no,https://www.facebook.com/prowsey16/
+1980,benalisbigrace,'Benali's Big Race',Community,0.02,6491,20,yes,https://www.facebook.com/benalisbigrace/
+1990,solentuniversity,'Southampton Solent University - Official',Organization,0.09,27478,623,yes,https://www.facebook.com/solentuniversity/
+2000,sparsholtfootballacademy,'Sparsholt Football Academy',Community,0,593,0,yes,https://www.facebook.com/sparsholtfootballacademy/
+2010,saintsfoundation,'Saints Foundation',Cause,0.02,3084,7,yes,https://www.facebook.com/saintsfoundation/
+2020,aftonbladet.resa,'Aftonbladet Resa',Magazine,0.01,5040,10,yes,https://www.facebook.com/aftonbladet.resa/
+2030,TheRoyalEdinburghMilitaryTattoo,'The Royal Edinburgh Military Tattoo',Local Business,0.03,52960,1396,yes,https://www.facebook.com/TheRoyalEdinburghMilitaryTattoo/
+2040,LeTourYorkshire,'Tour de Yorkshire',Recreation & Fitness,0.05,81045,861,yes,https://www.facebook.com/LeTourYorkshire/
+2050,EdintFest,'Edinburgh International Festival',Arts & Entertainment,0.03,72695,155,yes,https://www.facebook.com/EdintFest/
+2060,englishheritage,'English Heritage',Non-Profit Organization,0.16,360136,10630,yes,https://www.facebook.com/englishheritage/
+2070,mtedgcumbe,'Mount Edgcumbe House and Country Park (Official)',Landmark & Historical Place,0.03,6337,142,no,https://www.facebook.com/mtedgcumbe/
+2080,NorfolkLavender,'Norfolk Lavender',Landmark & Historical Place,0.01,2993,55,yes,https://www.facebook.com/NorfolkLavender/
+2090,WalesEntdecken,'Wales Entdecken',Travel Company,0.02,27794,2467,yes,https://www.facebook.com/WalesEntdecken/
+2100,,'El Rincón de Sele',Local/Travel Website,0.04,56056,310,yes,https://www.facebook.com/El-Rincón-de-Sele-2100/
+2110,guiasviajar,'Guías Viajar',Local/Travel Website,0.29,435805,16354,no,https://www.facebook.com/guiasviajar/
+2120,InaCusterspriestess,'Dion Fortune',Teacher,0,2844,9,yes,https://www.facebook.com/InaCusterspriestess/
+2130,etihadairways.arabic,'الاتحاد للطيران',Travel Company,0.06,190365,1562,yes,https://www.facebook.com/etihadairways.arabic/
+2140,etihad.airways,'Etihad Airways',Travel Company,1.29,2347862,38262,yes,https://www.facebook.com/etihad.airways/
+2150,asaventurasdepaddington,'As Aventuras de Paddington',Movie,0,4374,3,no,https://www.facebook.com/asaventurasdepaddington/
+2160,HeathrowAirport,'Heathrow Airport',Company,0.01,342651,13442,yes,https://www.facebook.com/HeathrowAirport/
+2170,OxCots,'The Oxfordshire Cotswolds',Travel Company,0.06,3074,133,yes,https://www.facebook.com/OxCots/
+2180,visitpeakdistrict,'Visit Peak District',Non-Profit Organization,0.13,29860,1860,yes,https://www.facebook.com/visitpeakdistrict/
+2190,CausewayCoastandGlens,'Causeway Coast and Glens',Travel Company,0.01,4037,6,yes,https://www.facebook.com/CausewayCoastandGlens/
+2200,ennervalencia11,'Enner Valencia',Athlete,0.03,285078,324,yes,https://www.facebook.com/ennervalencia11/
+2210,AshWilliamsOfficial,'Ashley Williams',Athlete,0.01,208864,373,no,https://www.facebook.com/AshWilliamsOfficial/
+2220,DavidHenenOfficiel,'David Henen',Athlete,0,3786,49,no,https://www.facebook.com/DavidHenenOfficiel/
+2230,GethinJones8,'Gethin Jones',Athlete,0,1214,4,yes,https://www.facebook.com/GethinJones8/
+2240,heitingajohn,'John Heitinga',Athlete,0.02,17348,493,yes,https://www.facebook.com/heitingajohn/
+2250,RonaldKoeman.Official,'Ronald Koeman',Coach,0.02,58029,1661,no,https://www.facebook.com/RonaldKoeman.Official/
+2260,btsport,'BT Sport',TV Channel,0.07,652770,58219,no,https://www.facebook.com/btsport/
+2270,shanitarashaj,'Shani Tarashaj',Athlete,0.01,11589,193,yes,https://www.facebook.com/shanitarashaj/
+2280,alderheyhospital,'Alder Hey Children's Hospital and Charity',Non-Profit Organization,0.06,47006,1305,yes,https://www.facebook.com/alderheyhospital/
+2290,MoBesic7,'Muhamed Mo Bešić',Athlete,0.01,99775,1000,no,https://www.facebook.com/MoBesic7/
+2300,GerarDeulofeu,'Gerard Deulofeu',Athlete,0.01,243004,645,no,https://www.facebook.com/GerarDeulofeu/
+2310,Romelulukaku,'Romelu Lukaku',Athlete,0.15,2364516,2282,yes,https://www.facebook.com/Romelulukaku/
+2320,therealstevenpienaar,'Steven Schillo Pienaar',Athlete,0,248697,122,no,https://www.facebook.com/therealstevenpienaar/
+2330,MirallasK,'Kevin Mirallas',Athlete,0.02,14325,499,yes,https://www.facebook.com/MirallasK/
+2340,setoo99,'Samuel Eto'o',Athlete,0.02,8715677,90703,no,https://www.facebook.com/setoo99/
+2350,changbeer,'Chang Beer',Product/Service,0.02,234680,42928,yes,https://www.facebook.com/changbeer/
+2360,,'Everton in the Community 'Imagine Your Goals'',Travel Company,0.02,1141,22,yes,https://www.facebook.com/Everton-in-the-Community-Imagine-Your-Goals-2360/
+2370,,'Everton in the Community Knowsley Veterans Hub Football Programme.',Amateur Sport Team,0.01,1313,26,yes,https://www.facebook.com/Everton-in-the-Community-Knowsley-Veterans-Hub-Football-Programme-2370/
+2380,LacDePremiere,'Lac de Premiere',Recreation & Fitness,0.01,3708,62,yes,https://www.facebook.com/LacDePremiere/
+2390,eleiapure,'Eleia Pure Water',Food & Beverage Company,0,2991,4,no,https://www.facebook.com/eleiapure/
+2400,timhoward,'Tim Howard',Athlete,0.04,1294677,12684,yes,https://www.facebook.com/timhoward/
+2410,,'Everton Disabled Supporters Association',Non-Profit Organization,0,1120,3,yes,https://www.facebook.com/Everton-Disabled-Supporters-Association-2410/
+2420,kitbag,'Kitbag',Outdoor & Sporting Goods Company,0.1,88837,213,yes,https://www.facebook.com/kitbag/
+2430,easportsfifa,'EA SPORTS FIFA',Games/Toys,0.03,23520706,55364,yes,https://www.facebook.com/easportsfifa/
+2440,GrandOldTeam,'Everton FC - Grandoldteam',Sports Team,0.05,189351,3126,yes,https://www.facebook.com/GrandOldTeam/
+2450,PSG,'PSG - Paris Saint-Germain',Sports Team,0.2,26163516,338991,yes,https://www.facebook.com/PSG/
+2460,iamandrewhenderson,'Andrew Henderson',Athlete,0.14,102081,3900,yes,https://www.facebook.com/iamandrewhenderson/
+2470,nikemagista,'Nike Magista',Product/Service,0.01,4241134,2511,no,https://www.facebook.com/nikemagista/
+2480,Inter,'F.C. Internazionale Milano',Sports Team,0.21,6107123,198103,no,https://www.facebook.com/Inter/
+2490,equipedefrance,'Équipe de France de Football',Sports Team,0.08,5746045,104889,no,https://www.facebook.com/equipedefrance/
+2500,nikefutebol,'Nike Futebol',Product/Service,0.01,42493485,7964,no,https://www.facebook.com/nikefutebol/
+2510,AdnanJanuzaj,'Adnan Januzaj',Athlete,0.01,1610003,16480,no,https://www.facebook.com/AdnanJanuzaj/
+2520,samikhedira1987,'Sami Khedira',Athlete,0.02,6865984,74473,no,https://www.facebook.com/samikhedira1987/
+2530,nikehypervenom,'Nike Hypervenom',Product/Service,0.01,3665489,3714,no,https://www.facebook.com/nikehypervenom/
+2540,officialussoccer,'U.S. Soccer',Sports Team,0.2,2963638,45382,no,https://www.facebook.com/officialussoccer/
+2550,CelticFC,'Celtic FC',Sports Team,0.15,1643868,25851,no,https://www.facebook.com/CelticFC/
+2560,MaiconRoque,'Maicon Roque',Athlete,0.01,164074,190,no,https://www.facebook.com/MaiconRoque/
+2570,SergioRamosOficial,'Sergio Ramos',Athlete,1.67,22344040,1027324,yes,https://www.facebook.com/SergioRamosOficial/
+2580,miguelveloso4,'Miguel Veloso',Athlete,0,583439,384,no,https://www.facebook.com/miguelveloso4/
+2590,OfficialMeireles,'Raul Meireles',Athlete,0.01,2323322,7973,no,https://www.facebook.com/OfficialMeireles/
+2600,WesleySneijder,'Wesley Sneijder',Athlete,0.01,5357974,10259,no,https://www.facebook.com/WesleySneijder/
+2610,yannmvila,'Yann M'Vila',Athlete,0,336806,237,no,https://www.facebook.com/yannmvila/
+2620,WayneRooney,'Wayne Rooney',Athlete,0.02,25443181,298616,no,https://www.facebook.com/WayneRooney/
+2630,alexoxchamberlain,'Alex Oxlade-Chamberlain',Athlete,0.01,2571741,20172,yes,https://www.facebook.com/alexoxchamberlain/
+2640,nike,'Nike',Product/Service,0.01,27449856,145223,no,https://www.facebook.com/nike/
+2650,rl9official,'Robert Lewandowski',Athlete,0.03,9113946,242473,no,https://www.facebook.com/rl9official/
+2660,JuanMataOficial,'Juan Mata',Athlete,2.37,9637417,181689,yes,https://www.facebook.com/JuanMataOficial/
+2670,nikefootballportugal,'Nike Football',Product/Service,0.01,42498683,423,yes,https://www.facebook.com/nikefootballportugal/
+2680,corinthians,'SC Corinthians Paulista',Sports Team,0.24,11110931,402057,no,https://www.facebook.com/corinthians/
+2690,Juventus,'Juventus',Sports Team,0.38,25207741,190605,yes,https://www.facebook.com/Juventus/
+2700,fczenit,'ФК Зенит',Sports Team,0.11,1011919,5254,no,https://www.facebook.com/fczenit/
+2710,vincentkompany,'Vincent Kompany',Athlete,0.01,3234976,2207,yes,https://www.facebook.com/vincentkompany/
+2720,ZlatanIbrahimovic,'Zlatan Ibrahimovic',Athlete,0.01,26250391,72874,no,https://www.facebook.com/ZlatanIbrahimovic/
+2730,NikeMercurial,'Nike Mercurial',Product/Service,0.01,12993137,9726,no,https://www.facebook.com/NikeMercurial/
+2740,aaronlennon,'Aaron Lennon',Athlete,0,678212,322,no,https://www.facebook.com/aaronlennon/
+2750,TheoWalcott,'Theo Walcott',Athlete,0,4446809,3934,no,https://www.facebook.com/TheoWalcott/
+2760,Pedro11Oficial,'Pedro',Athlete,0.01,5472428,17762,no,https://www.facebook.com/Pedro11Oficial/
+2770,Fabrizio.Miccoli.Official,'Fabrizio Miccoli',Athlete,0,241649,139,no,https://www.facebook.com/Fabrizio.Miccoli.Official/
+2780,RudolfGergely,'Rudolf Gergely',Athlete,0,49682,20,no,https://www.facebook.com/RudolfGergely/
+2790,MathieuValbuena28,'Mathieu Valbuena',Athlete,0.06,1128747,744,yes,https://www.facebook.com/MathieuValbuena28/
+2800,neymarjr,'Neymar Jr.',Athlete,8.77,59214746,1085169,yes,https://www.facebook.com/neymarjr/
+2810,3GerardPique,'Gerard Piqué',Athlete,0.01,18944123,24071,yes,https://www.facebook.com/3GerardPique/
+2820,jackwilshere,'Jack Wilshere',Athlete,0.01,4086498,56522,no,https://www.facebook.com/jackwilshere/
+2830,MM.MarkoMarin,'Marko Marin',Athlete,0,900005,2594,yes,https://www.facebook.com/MM.MarkoMarin/
+2840,fcbarcelona,'FC Barcelona',Sports Team,0.27,95491169,1633078,no,https://www.facebook.com/fcbarcelona/
+2850,mesutoezil,'Mesut Özil',Athlete,0.02,31588102,485488,no,https://www.facebook.com/mesutoezil/
+2860,AndresIniesta,'Andrés Iniesta',Athlete,0.03,26591075,250419,no,https://www.facebook.com/AndresIniesta/
+2870,Cristiano,'Cristiano Ronaldo',Athlete,0.07,118925300,3532172,no,https://www.facebook.com/Cristiano/
+2880,cescfabregas,'Cesc Fàbregas',Athlete,0.16,7226631,106233,yes,https://www.facebook.com/cescfabregas/
+2890,landondonovan,'Landon Donovan',Athlete,0.03,1090558,28021,yes,https://www.facebook.com/landondonovan/
+2900,clintdempsey23,'Clint Dempsey',Athlete,0.01,833799,547,yes,https://www.facebook.com/clintdempsey23/
+2910,NikeAcademy,'The Nike Academy',Sports Team,0.01,2341305,1808,no,https://www.facebook.com/NikeAcademy/
+2920,wbaindia,'West Bromwich Albion Indian Supporters Club',Sports Team,0.07,2156,67,yes,https://www.facebook.com/wbaindia/
+2930,,'The ATP Champions Tour',Sports Event,0.03,21746,24,no,https://www.facebook.com/The-ATP-Champions-Tour-2930/
+2940,onedirectionmusic,'One Direction',Musician/Band,1.23,39129596,99989,yes,https://www.facebook.com/onedirectionmusic/
+2950,ericclapton,'Eric Clapton',Musician/Band,0.01,9449248,9253,no,https://www.facebook.com/ericclapton/
+2960,thecharlatans,'The Charlatans',Musician/Band,0.02,185987,588,no,https://www.facebook.com/thecharlatans/
+2970,,'The Hawthorns',Stadium, Arena & Sports Venue,0,9057,1198,yes,https://www.facebook.com/The-Hawthorns-2970/
+2980,,'The Hawthorns',Local Business,0,433,0,no,https://www.facebook.com/pages/The-Hawthorns/2980
+2990,adidasoriginals,'adidas Originals',Company,0.19,29553423,58047,yes,https://www.facebook.com/adidasoriginals/
+3000,eMasLuarBiasa,'Paralympic Council of Malaysia',Non-Profit Organization,0.01,529,0,yes,https://www.facebook.com/eMasLuarBiasa/
+3010,IndiaSpurs,'India Spurs: Official Supporters Club of Tottenham Hotspur',Sports Team,0.08,28029,365,yes,https://www.facebook.com/IndiaSpurs/
+3020,lewisholtby18,'Lewis Holtby',Athlete,0.01,466169,261,yes,https://www.facebook.com/lewisholtby18/
+3030,AIAMalaysia,'AIA Malaysia',Business Service,0.08,243028,13863,yes,https://www.facebook.com/AIAMalaysia/
+3040,AIATaiwan,'AIA 友邦人壽 健康享樂活',Insurance Company,0.02,131969,412,no,https://www.facebook.com/AIATaiwan/
+3050,AIASingapore,'AIA Singapore',Product/Service,0.03,59495,706,yes,https://www.facebook.com/AIASingapore/
+3060,kyle.walker2,'Kyle Walker',Athlete,0.01,998369,4806,no,https://www.facebook.com/kyle.walker2/
+3070,TottenhamUTC,'Tottenham University Technical College',Education,0.01,3257,3,no,https://www.facebook.com/TottenhamUTC/
+3080,HP,'HP',Product/Service,1.19,4068645,43865,yes,https://www.facebook.com/HP/
+3090,Underarmour,'Under Armour',Product/Service,0.03,5520875,17817,yes,https://www.facebook.com/Underarmour/
+3100,,'Tottenham Tribute Trust',Sports Team,0.01,2724,5,yes,https://www.facebook.com/Tottenham-Tribute-Trust-3100/
+3110,,'Jersey Spurs Supporters Club (JSSC)',Local Business,0.02,3581,28,yes,https://www.facebook.com/Jersey-Spurs-Supporters-Club-JSSC-3110/
+3120,LASpurs,'The Official Los Angeles Tottenham Hotspur Supporters Club',Sports Team,0.09,7645,217,yes,https://www.facebook.com/LASpurs/
+3130,Spursmalta,'Tottenham Hotspur Fan Club Malta',Community,0.02,3631,28,no,https://www.facebook.com/Spursmalta/
+3140,SpursCanada,'Spurs Canada',Community,0.03,5714,188,yes,https://www.facebook.com/SpursCanada/
+3150,OzSpurs,'Australia Spurs',Community,0.01,8779,76,yes,https://www.facebook.com/OzSpurs/
+3160,tottenhamsweden,'Tottenham Hotspur Supporters Sweden',Sports Team,0.36,11222,1335,yes,https://www.facebook.com/tottenhamsweden/
+3170,,'Swiss Spurs Supporters Club (www.spurs.ch)',Community Organization,0,4272,22,yes,https://www.facebook.com/Swiss-Spurs-Supporters-Club-wwwspursch-3170/
+3180,SingaporeSpurs,'Singapore Spurs Supporters' Club',Community Organization,0.03,6095,36,yes,https://www.facebook.com/SingaporeSpurs/
+3190,NYSpurs,'NY SPURS',Sports Team,0.02,7783,50,yes,https://www.facebook.com/NYSpurs/
+3200,gwfxglobal,'GWFX Global',Finance Company,0,2692,1,yes,https://www.facebook.com/gwfxglobal/
+3210,,'Federico fernandez',Athlete,0,12338,10,yes,https://www.facebook.com/Federico-fernandez-3210/
+3220,NeilTaylorOfficial,'Neil Taylor',Athlete,0.01,33398,23,no,https://www.facebook.com/NeilTaylorOfficial/
+3230,FAWales,'FA Wales',Sports Team,0.16,391278,2107,yes,https://www.facebook.com/FAWales/
+3240,LukaszFabianskiOfficial,'Łukasz Fabiański',Athlete,0.02,550518,4764,no,https://www.facebook.com/LukaszFabianskiOfficial/
+3250,,'Jack To A King Film',Movie,0,3115,5,yes,https://www.facebook.com/Jack-To-A-King-Film-3250/
+3260,hgisunderland,'Hilton Garden Inn Sunderland',Hotel,0.02,2829,51,yes,https://www.facebook.com/hgisunderland/
+3270,melbmackems,'Melbourne Mackems - Official SAFC Supporters Group',Community,0.13,323,12,yes,https://www.facebook.com/melbmackems/
+3280,,'Road to Stadium of Light',Community,0,3313,4,yes,https://www.facebook.com/Road-to-Stadium-of-Light-3280/
+3290,JeremainLensOfficial,'Jeremain Lens',Athlete,0.08,137645,19577,yes,https://www.facebook.com/JeremainLensOfficial/
+3300,bonneyfield,'Bonney Field',Stadium, Arena & Sports Venue,0.01,2198,6,yes,https://www.facebook.com/bonneyfield/
+3310,dafabetasia,'Dafabet Asia',Website,0.02,1123,11,yes,https://www.facebook.com/dafabetasia/
+3320,mrestaurants.london,'M Restaurants',Restaurant,0.03,3315,43,yes,https://www.facebook.com/mrestaurants.london/
+3330,SunderlandVibe,'Sunderland Vibe',Magazine,0.05,805,4,yes,https://www.facebook.com/SunderlandVibe/
+3340,gobananasplay,'Go Bananas',Landmark & Historical Place,0,1792,49,yes,https://www.facebook.com/gobananasplay/
+3350,dunesadventureisland,'Dunes Adventure Island',Landmark & Historical Place,0.04,6319,747,yes,https://www.facebook.com/dunesadventureisland/
+3360,thebantams,'Bradford City Football Club (Official page)',Sports Team,0.92,114598,3274,yes,https://www.facebook.com/thebantams/
+3370,stadiumoflight,'Stadium of Light',Stadium, Arena & Sports Venue,0.08,40578,3054,yes,https://www.facebook.com/stadiumoflight/
+3380,wtmlondon,'World Travel Market',Travel Company,0.08,30558,104,yes,https://www.facebook.com/wtmlondon/
+3390,TanzaniaTouristBoard,'Tanzania Tourist Board',Product/Service,0.02,72178,280,yes,https://www.facebook.com/TanzaniaTouristBoard/
+3400,Bidvest,'Bidvest',Company,0.01,5420,21,no,https://www.facebook.com/Bidvest/
+3410,dcunited,'D.C. United',Sports Team,0.09,184762,1162,yes,https://www.facebook.com/dcunited/
+3420,SuperSportFootball,'SuperSport Football',Media/News Company,0.14,6999122,66297,no,https://www.facebook.com/SuperSportFootball/
+3430,cardiffcityfc,'Cardiff City Football Club',Sports Team,0.22,497417,5510,no,https://www.facebook.com/cardiffcityfc/
+3440,FulhamFC,'Fulham FC Official',Sports Team,0.62,805279,7469,yes,https://www.facebook.com/FulhamFC/
+3450,NorwichCityFootballClub,'Norwich City FC',Sports Team,0.29,802612,12303,yes,https://www.facebook.com/NorwichCityFootballClub/
+3460,FlySAA,'FlySAA',Cargo & Freight Company,0.52,331888,3860,yes,https://www.facebook.com/FlySAA/
+3470,safcladies,'Sunderland AFC Ladies',Recreation & Fitness,0.02,4129,28,yes,https://www.facebook.com/safcladies/
+3480,dare2dream41,'Let's get Things can only get better to number 1 for the League Cup Final.',Community,0,5467,5,yes,https://www.facebook.com/dare2dream41/
+3490,wiganathletic,'Wigan Athletic',Sports Team,0.16,268408,2612,yes,https://www.facebook.com/wiganathletic/
+3500,instatabapp,'InstaTab',App Page,0,89573,300,no,https://www.facebook.com/instatabapp/
+3510,colly622,'Paul Collingwood',Athlete,0.01,526455,476,no,https://www.facebook.com/colly622/
+3520,StephHoughtonOfficial,'Steph Houghton',Athlete,0.01,30059,38,yes,https://www.facebook.com/StephHoughtonOfficial/
+3530,ukliveofficial,'UK Live',Performance & Sports Venue,0,21471,10,yes,https://www.facebook.com/ukliveofficial/
+3540,hootsuite,'Hootsuite',Internet Company,0.74,619176,3708,yes,https://www.facebook.com/hootsuite/
+3550,StubHubUK,'StubHub UK',Product/Service,0.09,35596,395,yes,https://www.facebook.com/StubHubUK/
+3560,StrongbowUK,'Strongbow',Food & Beverage Company,0.01,1490246,142,yes,https://www.facebook.com/StrongbowUK/
+3570,brucespringsteen,'Bruce Springsteen',Musician/Band,0.03,5519423,14854,no,https://www.facebook.com/brucespringsteen/
+3580,dragonsfc,'Jeonnam Dragons Football Club',Sports Team,0.02,15091,904,yes,https://www.facebook.com/dragonsfc/
+3590,splitfestival,'Split Festival',Performance & Sports Venue,0.01,5290,6,yes,https://www.facebook.com/splitfestival/
+3600,arirang,'South Korea',Government Organization,0,343845,303,yes,https://www.facebook.com/arirang/
+3610,theafcasiancup,'AFC Asian Cup',Sports League,0.01,662590,468,yes,https://www.facebook.com/theafcasiancup/
+3620,givemesportfootball,'GiveMeSport - Football',News/Media Website,10.54,484972,6481,yes,https://www.facebook.com/givemesportfootball/
+3630,,'Connor Wickham',Athlete,0,6581,6,yes,https://www.facebook.com/Connor-Wickham-3630/
+3640,sunderlandnow,'Sunderlandnow',Local Business,0.9,97180,8267,yes,https://www.facebook.com/sunderlandnow/
+3650,5liveSport,'BBC Radio 5 live Sport',News/Media Website,0.3,197611,8098,no,https://www.facebook.com/5liveSport/
+3660,BBC606,'606',Product/Service,0.07,24267,219,yes,https://www.facebook.com/BBC606/
+3670,KingsOfLeon,'Kings Of Leon',Musician/Band,0.02,11716589,9579,yes,https://www.facebook.com/KingsOfLeon/
+3680,GhanaFootballAssociation,'Ghana Football Association',Sports Team,0.02,304060,268,yes,https://www.facebook.com/GhanaFootballAssociation/
+3690,,'Asamoah Gyan',Community,0,38809,0,yes,https://www.facebook.com/Asamoah-Gyan-3690/
+3700,heineken,'Heineken',Food & Beverage Company,0.19,22226304,138484,yes,https://www.facebook.com/heineken/
+3710,LucozadeSport,'Lucozade Sport',Food & Beverage Company,0.02,208956,127,yes,https://www.facebook.com/LucozadeSport/
+3720,takethat,'Take That',Musician/Band,0.01,1836481,6169,yes,https://www.facebook.com/takethat/
+3730,BonyWilfriedOfficial,'Bony Wilfried',Athlete,0.01,92275,639,no,https://www.facebook.com/BonyWilfriedOfficial/
+3740,RamadanSob7i,'Ramadan Sobhi',Athlete,0.01,463988,30204,yes,https://www.facebook.com/RamadanSob7i/
+3750,LeekUnitedBuildingSociety,'Leek United Building Society',Finance Company,0.04,871,14,yes,https://www.facebook.com/LeekUnitedBuildingSociety/
+3760,gianimbula,'Giannelli Imbula',Athlete,0.01,94072,1299,no,https://www.facebook.com/gianimbula/
+3770,matthewsmovie,'Sir Stanley Matthews',Athlete,0.01,8909,389,no,https://www.facebook.com/matthewsmovie/
+3780,allstarslottery,'All Stars Lottery',Product/Service,0.01,777,18,yes,https://www.facebook.com/allstarslottery/
+3790,Joselu.Mato.Official,'Joselu Mato',Athlete,0.03,74175,198,yes,https://www.facebook.com/Joselu.Mato.Official/
+3800,StokeCityFCSupportersBranchAntigua,'Stoke City FC-Supporters Branch-Antigua',Organization,0.04,1145,8,yes,https://www.facebook.com/StokeCityFCSupportersBranchAntigua/
+3810,GenerationNextFc,'Generation Next FC',Amateur Sport Team,0.04,1419,30,yes,https://www.facebook.com/GenerationNextFc/
+3820,BoKrkic.Oficial,'Bojan Krkic',Athlete,0.02,1398894,2678,no,https://www.facebook.com/BoKrkic.Oficial/
+3830,GeoffCameronOfficialFanPage,'Geoff Cameron',Athlete,0.01,42381,54,yes,https://www.facebook.com/GeoffCameronOfficialFanPage/
+3840,StokeCitySupportersCouncil,'Stoke City Supporters Council',Community,0,2055,3,no,https://www.facebook.com/StokeCitySupportersCouncil/
+3850,MarcMuniesa.Official,'Marc Muniesa',Athlete,0.01,160098,187,yes,https://www.facebook.com/MarcMuniesa.Official/
+3860,StokeonTrentCollege,'Stoke-on-Trent College',Education,0.49,5066,167,yes,https://www.facebook.com/StokeonTrentCollege/
+3870,M.ClubSpaAndFitness,'The M Club Spa & Fitness',Recreation & Fitness,0.02,2214,32,yes,https://www.facebook.com/M.ClubSpaAndFitness/
+3880,MarkoArnautovicOfficialpage,'Marko Arnautovic official Fanpage',Athlete,0.04,339293,1003,yes,https://www.facebook.com/MarkoArnautovicOfficialpage/
+3890,SCFCOldBoys,'S.C.O.B.A',Community Organization,0.01,1719,60,yes,https://www.facebook.com/SCFCOldBoys/
+3900,scfc.bet365Stadium,'bet365 Stadium',Stadium, Arena & Sports Venue,0,15918,41,no,https://www.facebook.com/scfc.bet365Stadium/
+3910,stokecitycommunity,'Stoke City Community Trust',Local Business,0.03,7087,39,no,https://www.facebook.com/stokecitycommunity/
+3920,PaulPogba,'Paul Labile Pogba',Athlete,0.02,5943457,275309,yes,https://www.facebook.com/PaulPogba/
+3930,Joeriley49,'Joe Riley',Athlete,0.01,39353,577,no,https://www.facebook.com/Joeriley49/
+3940,EricBailly24,'Eric Bailly',Athlete,0.01,645407,25088,no,https://www.facebook.com/EricBailly24/
+3950,AnthonyMartialAM9,'Anthony Martial',Athlete,0.02,800822,23795,yes,https://www.facebook.com/AnthonyMartialAM9/
+3960,jesselingardofficial,'Jesse Lingard',Athlete,0.01,436876,18285,no,https://www.facebook.com/jesselingardofficial/
+3970,andrewcoleofficial,'Andrew Cole',Athlete,0.01,59415,120,no,https://www.facebook.com/andrewcoleofficial/
+3980,HCLTechnologies,'HCL Technologies',Organization,0.13,1454400,5630,yes,https://www.facebook.com/HCLTechnologies/
+3990,adidasOriginalsUK,'adidas Originals',Company,0.08,29553420,1269,yes,https://www.facebook.com/adidasOriginalsUK/
+4000,adidasFootballUK,'adidas Football',Company,0.05,22345683,2847,yes,https://www.facebook.com/adidasFootballUK/
+4010,adidasUK,'adidas',Company,0.18,25678011,1988,yes,https://www.facebook.com/adidasUK/
+4020,Samjohnstonepage,'Sam Johnstone',Sports Team,0.01,227817,12708,yes,https://www.facebook.com/Samjohnstonepage/
+4030,AndreasPereira10,'Andreas Pereira',Athlete,0.03,271403,4324,yes,https://www.facebook.com/AndreasPereira10/
+4040,SchneiderlinMo4,'Morgan Schneiderlin',Athlete,0.27,1124259,6016,yes,https://www.facebook.com/SchneiderlinMo4/
+4050,BastianSchweinsteiger,'Bastian Schweinsteiger',Athlete,0.03,9599136,325026,yes,https://www.facebook.com/BastianSchweinsteiger/
+4060,Matteo.Darmian,'Matteo Darmian',Athlete,0.01,298839,7864,no,https://www.facebook.com/Matteo.Darmian/
+4070,memphisdepayofficial,'Memphis Depay',Athlete,0.02,2928134,91700,no,https://www.facebook.com/memphisdepayofficial/
+4080,ChrisSmalling.PAGE,'Chris Smalling',Athlete,0.01,2093250,80061,yes,https://www.facebook.com/ChrisSmalling.PAGE/
+4090,bryanrobson7cm,'Bryan Robson',Athlete,0.01,87432,749,yes,https://www.facebook.com/bryanrobson7cm/
+4100,DavidDeGeaOficial,'David De Gea',Athlete,0.35,6367236,115434,yes,https://www.facebook.com/DavidDeGeaOficial/
+4110,lukeshawofficial,'Luke Shaw',Athlete,0.01,678609,1357,no,https://www.facebook.com/lukeshawofficial/
+4120,anderherrera,'Ander Herrera',Athlete,0.02,924769,45456,no,https://www.facebook.com/anderherrera/
+4130,Blinddaley,'Daley Blind',Athlete,0.01,1933372,4785,no,https://www.facebook.com/Blinddaley/
+4140,MUDSA.official,'Manchester United Disabled Supporters Association (MUDSA)',Company,0,157001,225,no,https://www.facebook.com/MUDSA.official/
+4150,ChevroletFC,'Chevrolet FC',Cars,0.03,1665445,189616,yes,https://www.facebook.com/ChevroletFC/
+4160,MarouaneFellaini,'Marouane Fellaini',Athlete,0.01,4358611,36738,no,https://www.facebook.com/MarouaneFellaini/
+4170,youngy18,'Ashley Young',Athlete,0.01,2454940,38457,no,https://www.facebook.com/youngy18/
+4180,MichaelCarrick,'Michael Carrick',Athlete,0,2729229,132718,no,https://www.facebook.com/MichaelCarrick/
+4190,PJ4Official,'Phil Jones',Athlete,0,1768191,3402,no,https://www.facebook.com/PJ4Official/
+4200,manchesterunitedfoundation,'Manchester United Foundation',Non-Profit Organization,0.03,2636345,6996,no,https://www.facebook.com/manchesterunitedfoundation/
+4210,joehartofficial,'Joe Hart',Athlete,0.01,545677,696,yes,https://www.facebook.com/joehartofficial/
+4220,ManchesterCityMalaysia,'Manchester City Malaysia',Sports Team,0.01,3474,11,yes,https://www.facebook.com/ManchesterCityMalaysia/
+4230,fcOtamendi,'Nicolás Otamendi',Athlete,0.05,699748,28629,yes,https://www.facebook.com/fcOtamendi/
+4240,DeBruyneOfficial,'Kevin De Bruyne',Athlete,0.01,2960088,66567,yes,https://www.facebook.com/DeBruyneOfficial/
+4250,WoodStreetMission,'Wood Street Mission',Non-Profit Organization,0.01,5238,28,yes,https://www.facebook.com/WoodStreetMission/
+4260,LGUK,'LG UK – Life’s Good',Electronics,0.13,247602,1659,yes,https://www.facebook.com/LGUK/
+4270,CocoJoyAustralia,'Coco Joy',Product/Service,0.03,21342,414,no,https://www.facebook.com/CocoJoyAustralia/
+4280,sterling7official,'Raheem Sterling',Athlete,0,2155402,4357,yes,https://www.facebook.com/sterling7official/
+4290,jnavas15,'Jesús Navas',Athlete,0,109306,443,no,https://www.facebook.com/jnavas15/
+4300,1894groupmcfc,'1894groupmcfc',Community,0.01,11376,46,no,https://www.facebook.com/1894groupmcfc/
+4310,davidsilvaoficial,'David Silva',Athlete,0,2392016,14988,no,https://www.facebook.com/davidsilvaoficial/
+4320,stevanj35,'Stevan Jovetić',Athlete,0.01,565033,52609,yes,https://www.facebook.com/stevanj35/
+4330,franklampard,'Frank Lampard',Athlete,0.01,2497931,55246,no,https://www.facebook.com/franklampard/
+4340,yayatoure,'Yaya Touré',Athlete,0.01,1248685,8318,no,https://www.facebook.com/yayatoure/
+4350,Dashing.MY,'Dashing',Health/Beauty,0.03,115643,242,yes,https://www.facebook.com/Dashing.MY/
+4360,FernandinhoRozaOficial,'Fernandinho',Athlete,0.02,685656,1758,no,https://www.facebook.com/FernandinhoRozaOficial/
+4370,eliaquim.mangala.officiel,'Eliaquim Mangala Officiel',Athlete,0.01,466212,1003,yes,https://www.facebook.com/eliaquim.mangala.officiel/
+4380,MCFCsupportersclub,'MCFC Supporters Club',Organization,0.11,29222,2494,yes,https://www.facebook.com/MCFCsupportersclub/
+4390,FernandoRegesOficial,'Fernando Reges',Athlete,0.01,52793,284,no,https://www.facebook.com/FernandoRegesOficial/
+4400,NissanUK,'Nissan',Cars,0.17,17117076,4891,yes,https://www.facebook.com/NissanUK/
+4410,melbournecityfc,'Melbourne City FC',Sports Team,0.28,194021,8953,yes,https://www.facebook.com/melbournecityfc/
+4420,ioncamera,'iON Camera',Electronics,0.04,44682,52,yes,https://www.facebook.com/ioncamera/
+4430,ronylopesoficial,'Rony Lopes',Athlete,0.01,38858,424,yes,https://www.facebook.com/ronylopesoficial/
+4440,visitabudhabi,'Visit Abu Dhabi',Travel Company,0.03,673726,162577,yes,https://www.facebook.com/visitabudhabi/
+4450,uefachampionsleague,'UEFA Champions League',Sports League,0.16,60636892,1168555,no,https://www.facebook.com/uefachampionsleague/
+4460,gsbatterythailand,'GS Battery',Automotive Company,0.01,59973,119,yes,https://www.facebook.com/gsbatterythailand/
+4470,,'Est cola',Food & Beverage Company,0,3629,18,yes,https://www.facebook.com/Est-cola-4470/
+4480,aabarp,'Aabar Properties',Company,0,1507,2,no,https://www.facebook.com/aabarp/
+4490,SytnerGroup,'Sytner Group',Automotive Company,0.02,3372,51,yes,https://www.facebook.com/SytnerGroup/
+4500,hugoboss,'HUGO BOSS',Clothing (Brand),0.03,7755352,20458,no,https://www.facebook.com/hugoboss/
+4510,nikefootballUK,'Nike Football',Product/Service,0.04,42498679,1862,yes,https://www.facebook.com/nikefootballUK/
+4520,edindzeko,'Edin Džeko',Athlete,0.06,2010723,47557,no,https://www.facebook.com/edindzeko/
+4530,mancitycitc,'City in the Community Foundation',Cause,0.04,30247,170,yes,https://www.facebook.com/mancitycitc/
+4540,CityfootballschoolsUAE,'City Football Schools - Abu Dhabi مدارس السيتي لكرة القدم - أبوظبي',Sports Team,0.02,12215,46,no,https://www.facebook.com/CityfootballschoolsUAE/
+4550,OfficialVieira,'Patrick Vieira',Athlete,0,262141,441,no,https://www.facebook.com/OfficialVieira/
+4560,WeLoveMCR,'I Love MCR',Community,0.01,29472,15,yes,https://www.facebook.com/WeLoveMCR/
+4570,sergioelkunaguero,'Sergio Aguero',Athlete,0.37,11160310,118379,yes,https://www.facebook.com/sergioelkunaguero/
+4580,stannshospice,'St Ann's Hospice, Manchester, UK',Non-Profit Organization,0.02,11963,185,no,https://www.facebook.com/stannshospice/
+4590,EnglandTeam,'England football team',Sports Team,0.06,6919819,27524,no,https://www.facebook.com/EnglandTeam/
+4600,mcfcetihadstadium,'Etihad Stadium',Stadium, Arena & Sports Venue,0.01,1043577,1505,no,https://www.facebook.com/mcfcetihadstadium/
+4610,GaryJames4,'Gary James',Author,0.07,6949,363,yes,https://www.facebook.com/GaryJames4/
+4620,plattlanemmu,'Platt Lane Sports Complex - MMU Sport',Stadium, Arena & Sports Venue,0,102325,51,no,https://www.facebook.com/plattlanemmu/
+4630,mancityacademy,'Manchester City Academy',Sports Team,0.05,418153,3660,no,https://www.facebook.com/mancityacademy/
+4640,mancitywomen,'Manchester City Women',Sports Team,0.04,4610874,20234,yes,https://www.facebook.com/mancitywomen/
+4650,cityontour1894,'Blue Alliance',Community,0.15,19179,1545,yes,https://www.facebook.com/cityontour1894/
+4660,robbie9fowler,'Robbie Fowler',Athlete,0.01,14141,42,yes,https://www.facebook.com/robbie9fowler/
+4670,AustralianFootballLegends,'Australian Football Legends',Sports League,0,1568,6,yes,https://www.facebook.com/AustralianFootballLegends/
+4680,globalgoals.org,'The Global Goals',Community,0.03,101916,517,yes,https://www.facebook.com/globalgoals.org/
+4690,adamlallana,'Adam Lallana',Athlete,0.01,299016,6128,no,https://www.facebook.com/adamlallana/
+4700,DunkinDonuts,'Dunkin' Donuts',Local Business,0,14113722,1698,yes,https://www.facebook.com/DunkinDonuts/
+4710,lumberliquidators,'Lumber Liquidators',Retail Company,0.17,204604,35866,yes,https://www.facebook.com/lumberliquidators/
+4720,UnofficialLFCMuseum,'The Unofficial Liverpool Football Club Museum',Community,0.01,6145,30,yes,https://www.facebook.com/UnofficialLFCMuseum/
+4730,KonicaMinoltaBusinessSolutionsUKLtd,'Konica Minolta Business Solutions UK Ltd',Product/Service,0.01,4345,3,yes,https://www.facebook.com/KonicaMinoltaBusinessSolutionsUKLtd/
+4740,lloydsautobodyrepair,'Lloyds Autobody',Automotive,0,811,2,yes,https://www.facebook.com/lloydsautobodyrepair/
+4750,,'The David Cahill Rehabilitation Fund',Community,0.01,2540,3,no,https://www.facebook.com/The-David-Cahill-Rehabilitation-Fund-4750/
+4760,HomebakedA,'Homebaked Anfield',Community Organization,0.03,4152,115,yes,https://www.facebook.com/HomebakedA/
+4770,MightyRedLFC,'Mighty Red',Public Figure,0.04,33646,460,yes,https://www.facebook.com/MightyRedLFC/
+4780,HFSGOfficial,'Hillsborough Family Support Group',Cause,0.01,8293,352,yes,https://www.facebook.com/HFSGOfficial/
+4790,LiverpoolFCLGBTSupporters,'Kop Outs - LGBT Fan Group for Liverpool FC',Community,0.04,8118,43,yes,https://www.facebook.com/LiverpoolFCLGBTSupporters/
+4800,LiverpoolFCSC,'Liverpool FC Supporters' Committee',Community,0.01,10112,35,yes,https://www.facebook.com/LiverpoolFCSC/
+4810,ThomasCookSport,'Thomas Cook Sport',Travel Company,0.06,62103,2172,yes,https://www.facebook.com/ThomasCookSport/
+4820,ramseyerkekmodasi,'Ramsey',Clothing (Brand),0.03,216692,5362,no,https://www.facebook.com/ramseyerkekmodasi/
+4830,LiverpoolFantasyManager,'Liverpool FC Fantasy Manager',App Page,0,458668,187,no,https://www.facebook.com/LiverpoolFantasyManager/
+4840,itsliverpool,'it's liverpool',Community,0.04,18248,353,yes,https://www.facebook.com/itsliverpool/
+4850,Carlsberg,'Carlsberg',Food & Beverage Company,0.01,2557507,251,yes,https://www.facebook.com/Carlsberg/
+4860,StandardChartered,'Standard Chartered',Finance Company,0.08,271139,486,yes,https://www.facebook.com/StandardChartered/
+4870,VisitLiverpool,'VisitLiverpool.com',Travel Company,0.06,22917,576,no,https://www.facebook.com/VisitLiverpool/
+4880,ESPNUK,'ESPN UK',Media/News Company,2.02,1651419,47561,yes,https://www.facebook.com/ESPNUK/
+4890,cleatskins,'Cleatskins',Retail Company,0,6159,3,yes,https://www.facebook.com/cleatskins/
+4900,LFCofflicence,'Liverpool FC Off-licence',Company,0,23288,19,yes,https://www.facebook.com/LFCofflicence/
+4910,Istanbulglory,'Istanbul 05',Company,0,27229,15,yes,https://www.facebook.com/Istanbulglory/
+4920,MaxxisTyresUK,'Maxxis Tyres (UK)',Company,0.05,42960,1056,no,https://www.facebook.com/MaxxisTyresUK/
+4930,LFCTV,'LFC TV',Company,0,74089,59,yes,https://www.facebook.com/LFCTV/
+4940,SportpesaKenya,'SportPesa Care',Product/Service,21.74,234016,4425,yes,https://www.facebook.com/SportpesaKenya/
+4950,gooners.balkan,'Arsenal - Balkan Gooners',Community,0.26,26153,2637,no,https://www.facebook.com/gooners.balkan/
+4960,marketscom,'Markets.com',Product/Service,0.01,45535,1267,no,https://www.facebook.com/marketscom/
+4970,TheArsenalFoundation,'The Arsenal Foundation',Non-Profit Organization,0.02,47206,366,no,https://www.facebook.com/TheArsenalFoundation/
+4980,BodogCanada,'Bodog Canada',Website,0.03,5840,10,yes,https://www.facebook.com/BodogCanada/
+4990,IndesitUK,'Indesit',Appliances,0.14,165918,91,yes,https://www.facebook.com/IndesitUK/
+5000,YayaSanogoal,'Yaya Sanogo',Athlete,0,607116,341,yes,https://www.facebook.com/YayaSanogoal/
+5010,SterlingBankNigeria,'Sterling Bank Plc',Finance Company,0.09,509972,769,yes,https://www.facebook.com/SterlingBankNigeria/
+5020,19scazorla,'Santi Cazorla',Athlete,0.08,3174678,3010,yes,https://www.facebook.com/19scazorla/
+5030,ArsenalIndonesia,'Arsenal Indonesia Supporter Club',Community,0,53813,109,no,https://www.facebook.com/ArsenalIndonesia/
+5040,Beasupergunner,'Be A Super Gunner',Local Business,0.02,12360,44,no,https://www.facebook.com/Beasupergunner/
+5050,LukasPodolski,'Lukas Podolski',Athlete,0.03,7870778,56470,no,https://www.facebook.com/LukasPodolski/
+5060,coloradorapids,'Colorado Rapids Soccer Club',Sports Team,0.09,218314,4391,yes,https://www.facebook.com/coloradorapids/
+5070,ArsenalNYC,'Arsenal NYC',Community,0.03,176367,96,yes,https://www.facebook.com/ArsenalNYC/
+5080,lgbtsportcharter,'I love sport but I hate homophobia and transphobia',Cause,0,8099,12,yes,https://www.facebook.com/lgbtsportcharter/
+5090,UltimateArsenalGooners,'Ultimate Arsenal Gooners',Community,0,23771,16,yes,https://www.facebook.com/UltimateArsenalGooners/
+5100,ArsenalFCTillIDie,'AFC Till I Die',News/Media Website,0.29,480803,11807,yes,https://www.facebook.com/ArsenalFCTillIDie/
+5110,BangaloreGunners,'Bangalore Gunners',Sports Team,0,239440,168,no,https://www.facebook.com/BangaloreGunners/
+5120,ILoveArsenalForever123,'I love Arsenal forever',Sports Team,0.19,93158,1951,yes,https://www.facebook.com/ILoveArsenalForever123/
+5130,arsenalfcourpride,'Arsenal FC Our Pride',Sports Team,0.03,53846,766,yes,https://www.facebook.com/arsenalfcourpride/
+5140,AFC4L,'Arsenal Fans 4 Life',Sports Team,0,17782,30,yes,https://www.facebook.com/AFC4L/
+5150,fc.arsenal.lovers.team,'FC Arsenal Lovers',Sports Team,0.16,31827,188,yes,https://www.facebook.com/fc.arsenal.lovers.team/
+5160,ArsenalMumbai,'Arsenal Mumbai Supporters Club',Recreation & Fitness,0.05,118895,312,yes,https://www.facebook.com/ArsenalMumbai/
+5170,Fc.Arsenal.News.Latest.Rumours,'Fc Arsenal News (Latest Rumours)',Sports Team,0.01,27234,38,yes,https://www.facebook.com/Fc.Arsenal.News.Latest.Rumours/
+5180,arsenalmyanmar,'Arsenal Myanmar',News/Media Website,0.28,253814,19211,yes,https://www.facebook.com/arsenalmyanmar/
+5190,arsenalhavefaith,'Arsenal ( Have Faith )',Sports Team,0.02,49604,135,yes,https://www.facebook.com/arsenalhavefaith/
+5200,Arsenal.FC.Vietnam,'Arsenal FC in Viet Nam',Sports Team,0.17,87531,2950,yes,https://www.facebook.com/Arsenal.FC.Vietnam/
+5210,,'Arsenal fans Pakistan',Sports Team,0.07,25140,535,yes,https://www.facebook.com/Arsenal-fans-Pakistan-5210/
+5220,JuniorGunners,'Junior Gunners',Sports Team,0.09,637477,1823,yes,https://www.facebook.com/JuniorGunners/
+5230,,'Arsenal Fan Malaysia',Sports Team,0.02,39439,42,no,https://www.facebook.com/Arsenal-Fan-Malaysia-5230/
+5240,,'Emirates Stadium',Stadium, Arena & Sports Venue,0.01,621315,1430,yes,https://www.facebook.com/Emirates-Stadium-5240/
+5250,rubenloftuscheek,'Ruben Loftus-Cheek',Athlete,0.01,88857,8066,no,https://www.facebook.com/rubenloftuscheek/
+5260,CourtoisOfficial,'Thibaut Courtois',Athlete,0.29,5409963,58447,yes,https://www.facebook.com/CourtoisOfficial/
+5270,,'Baba Abdul-Rahman',Athlete,0,50440,131,no,https://www.facebook.com/Baba-Abdul-Rahman-5270/
+5280,KurtZouma,'Kurt Zouma',Athlete,0.01,136967,16891,no,https://www.facebook.com/KurtZouma/
+5290,asmirofficial,'Asmir Begović',Athlete,0.05,448048,10186,yes,https://www.facebook.com/asmirofficial/
+5300,Hublot,'Hublot',Jewelry/Watches,0.12,2457394,25533,yes,https://www.facebook.com/Hublot/
+5310,,'Falcao',Athlete,0.03,13022795,101409,no,https://www.facebook.com/Falcao-5310/
+5320,ChelseaFCRunner,'Chelsea Runner',App Page,0.02,30443,202,yes,https://www.facebook.com/ChelseaFCRunner/
+5330,YOKOHAMACFC,'YOKOHAMA Chelsea FC',Automotive Company,0.07,46686,4349,yes,https://www.facebook.com/YOKOHAMACFC/
+5340,nathanake,'Nathan Ake',Athlete,0,342000,23726,no,https://www.facebook.com/nathanake/
+5350,edenhazard,'Eden Hazard',Athlete,0.01,8732572,45020,no,https://www.facebook.com/edenhazard/
+5360,StamfordTheLionGame,'Stamford The Lion',App Page,0,29873,29,no,https://www.facebook.com/StamfordTheLionGame/
+5370,yokohamatirecorp,'Yokohama Tire',Company,0.04,154521,4957,yes,https://www.facebook.com/yokohamatirecorp/
+5380,diegocostaofficial,'Diego Costa',Athlete,0.01,1596788,5718,no,https://www.facebook.com/diegocostaofficial/
+5390,fol3.th,'EA Sports FIFA Online 3 Thailand',Games/Toys,0.22,1730603,75054,no,https://www.facebook.com/fol3.th/
+5400,chelsealfc,'Chelsea Ladies Football Club',Sports Team,0.02,2302613,68627,no,https://www.facebook.com/chelsealfc/
+5410,willianborges88,'Willian',Athlete,0.01,6264480,34406,no,https://www.facebook.com/willianborges88/
+5420,ChelseaScorePredictor,'Chelsea Score Predictor',App Page,0.01,25279,42,yes,https://www.facebook.com/ChelseaScorePredictor/
+5430,CesarAzpilicuetaOficial,'Cesar Azpilicueta',Athlete,0.02,2971895,17722,yes,https://www.facebook.com/CesarAzpilicuetaOficial/
+5440,rami7oficial,'Ramires',Athlete,0.01,3797255,3076,yes,https://www.facebook.com/rami7oficial/
+5450,garyjcahill,'Gary Cahill',Athlete,0,2458634,2225,yes,https://www.facebook.com/garyjcahill/
+5460,KalasTomas,'Tomáš Kalas',Athlete,0,27690,35,yes,https://www.facebook.com/KalasTomas/
+5470,fcharlemlions,'FC Harlem Lions',Non-Profit Organization,0,3843,11,yes,https://www.facebook.com/fcharlemlions/
+5480,OCISC,'Chelsea FC India Supporters Club',Sports Team,0.1,68007,8076,no,https://www.facebook.com/OCISC/
+5490,marco.vanginkel.71,'Marco van Ginkel',Athlete,0.02,1228107,7023,yes,https://www.facebook.com/marco.vanginkel.71/
+5500,IntChampionsCup,'International Champions Cup',Sports League,0.02,1876043,6251,no,https://www.facebook.com/IntChampionsCup/
+5510,MichaelEssienFoundation,'Michael Essien Foundation',Athlete,0.03,759123,662,yes,https://www.facebook.com/MichaelEssienFoundation/
+5520,oscaroficial,'Oscar',Athlete,0.38,11179149,235165,yes,https://www.facebook.com/oscaroficial/
+5530,VictorMoses1990,'Victor Moses',Athlete,0.11,1326429,2693,yes,https://www.facebook.com/VictorMoses1990/
+5540,PetrCech.official,'Petr Čech',Athlete,0.07,5234304,8571,yes,https://www.facebook.com/PetrCech.official/
+5550,lucaspiazon,'Lucas Piazon',Athlete,0.02,784256,5338,no,https://www.facebook.com/lucaspiazon/
+5560,delta,'Delta',Travel Company,2.83,1882926,30803,yes,https://www.facebook.com/delta/
+5570,,'Stamford Bridge',Stadium, Arena & Sports Venue,0,862744,4451,yes,https://www.facebook.com/Stamford-Bridge-5570/
+5580,adidasfootball,'adidas Football',Company,0.05,22346457,35611,no,https://www.facebook.com/adidasfootball/
+5590,BYSInt,'Beyond Sport',Organization,0.02,6625,16,yes,https://www.facebook.com/BYSInt/
+5600,BarclaysGraduates,'Barclays Early Careers and Graduates',Finance Company,0.02,8774,78,no,https://www.facebook.com/BarclaysGraduates/
+5610,YourLifeSkills,'LifeSkills',Community,0,123052,105,yes,https://www.facebook.com/YourLifeSkills/
+5620,BarclaysWealthandInvestmentManagement,'Barclays Wealth and Investment Management',Finance Company,0.03,16645,117,no,https://www.facebook.com/BarclaysWealthandInvestmentManagement/
+5630,BarclaysBusinessUK,'Barclays Business UK',Finance Company,0.03,63286,65,yes,https://www.facebook.com/BarclaysBusinessUK/
+5640,Barclaycard,'Barclaycard',Finance Company,0.08,392051,1948,yes,https://www.facebook.com/Barclaycard/
+5650,BarclaysUK,'Barclays UK',Finance Company,0.43,582184,1258,yes,https://www.facebook.com/BarclaysUK/
+5660,LexisAgency,'Lexis',Consulting Agency,0,828,0,yes,https://www.facebook.com/LexisAgency/
+5670,dynamomagician,'DYNAMO',Public Figure,0.01,5493553,7236,yes,https://www.facebook.com/dynamomagician/
+5680,TheSims,'The Sims',Games/Toys,2.23,12662995,74031,yes,https://www.facebook.com/TheSims/
+5690,FIFAUltimateTeam,'FIFA Ultimate Team',Games/Toys,0.02,4883883,86264,yes,https://www.facebook.com/FIFAUltimateTeam/
+5700,EASPORTSGrandSlamTennis,'EA Sports Grand Slam Tennis',Games/Toys,0,26900,16,yes,https://www.facebook.com/EASPORTSGrandSlamTennis/
+5710,EAHelpHub,'EA Help',Video Game,0.57,50980,336,yes,https://www.facebook.com/EAHelpHub/
+5720,EASPORTSNHL,'EA SPORTS NHL',Games/Toys,0.06,1112568,17818,yes,https://www.facebook.com/EASPORTSNHL/
+5730,pgatourgolfchallenge,'PGA TOUR Golf Challenge',App Page,0,70985,30,yes,https://www.facebook.com/pgatourgolfchallenge/
+5740,easportsfightnight,'EA SPORTS FIGHT NIGHT',Games/Toys,0,144786,98,yes,https://www.facebook.com/easportsfightnight/
+5750,easportsssx,'EA SPORTS SSX',Games/Toys,0,543704,409,yes,https://www.facebook.com/easportsssx/
+5760,OriginInsider,'Origin Insider',Video Game,0.02,1173291,15231,yes,https://www.facebook.com/OriginInsider/
+5770,NBAJAM,'NBA JAM',Games/Toys,0.01,386082,323,yes,https://www.facebook.com/NBAJAM/
+5780,EASPORTSNBA,'EA SPORTS NBA LIVE',Games/Toys,0.16,878462,2408,yes,https://www.facebook.com/EASPORTSNBA/
+5790,easportsncaafootball,'EA SPORTS NCAA Football',Games/Toys,0,1817523,1033,yes,https://www.facebook.com/easportsncaafootball/
+5800,EASPORTSUFC,'EA SPORTS UFC',Games/Toys,0.16,819736,4434,yes,https://www.facebook.com/EASPORTSUFC/
+5810,EASPORTSGolf,'EA SPORTS PGA TOUR',Games/Toys,0,383573,251,yes,https://www.facebook.com/EASPORTSGolf/
+5820,EASPORTSMADDENNFL,'EA SPORTS MADDEN NFL',Games/Toys,0.61,4858729,16676,yes,https://www.facebook.com/EASPORTSMADDENNFL/
+edgedef>node1 VARCHAR,node2 VARCHAR,directed BOOLEAN
+10,20,true
+10,30,true
+10,40,true
+10,50,true
+10,60,true
+10,70,true
+10,80,true
+10,90,true
+10,100,true
+10,110,true
+10,120,true
+10,130,true
+10,140,true
+10,150,true
+10,160,true
+10,170,true
+10,180,true
+10,190,true
+10,200,true
+10,210,true
+10,220,true
+10,230,true
+10,240,true
+10,250,true
+10,260,true
+10,270,true
+20,280,true
+20,290,true
+20,210,true
+20,10,true
+20,300,true
+20,310,true
+20,320,true
+20,330,true
+20,340,true
+20,350,true
+20,360,true
+20,370,true
+20,380,true
+20,390,true
+20,400,true
+20,410,true
+20,420,true
+20,430,true
+20,440,true
+20,450,true
+20,460,true
+20,470,true
+20,480,true
+20,490,true
+20,500,true
+30,510,true
+30,520,true
+30,530,true
+30,540,true
+30,550,true
+30,560,true
+40,570,true
+40,580,true
+40,590,true
+40,600,true
+40,610,true
+40,620,true
+40,630,true
+50,640,true
+50,650,true
+50,660,true
+50,670,true
+50,680,true
+50,690,true
+50,700,true
+50,710,true
+50,720,true
+50,730,true
+50,740,true
+50,750,true
+50,760,true
+50,770,true
+50,780,true
+50,790,true
+50,800,true
+50,810,true
+50,820,true
+60,830,true
+60,840,true
+60,850,true
+60,860,true
+60,870,true
+60,880,true
+60,890,true
+60,900,true
+60,910,true
+60,920,true
+60,930,true
+60,940,true
+60,950,true
+60,960,true
+60,970,true
+60,980,true
+60,200,true
+60,90,true
+60,240,true
+60,170,true
+60,220,true
+60,180,true
+60,160,true
+60,100,true
+60,990,true
+60,230,true
+60,120,true
+60,1000,true
+60,1010,true
+60,40,true
+60,140,true
+60,110,true
+60,190,true
+60,210,true
+60,250,true
+60,10,true
+60,1020,true
+60,1030,true
+60,1040,true
+60,1050,true
+60,1060,true
+60,1070,true
+60,1080,true
+60,1090,true
+60,1100,true
+60,1110,true
+60,1120,true
+60,1130,true
+60,1140,true
+60,1150,true
+60,1160,true
+60,1170,true
+60,1180,true
+60,1190,true
+60,1200,true
+60,1210,true
+60,1220,true
+60,1230,true
+60,1240,true
+60,1250,true
+60,1260,true
+70,1270,true
+70,1280,true
+70,1290,true
+70,1060,true
+70,1300,true
+70,1310,true
+70,1320,true
+70,1330,true
+70,1340,true
+70,1350,true
+70,1360,true
+70,1370,true
+70,1380,true
+70,1390,true
+70,1400,true
+70,1410,true
+70,1420,true
+70,1430,true
+80,1440,true
+80,1450,true
+80,1460,true
+80,1470,true
+80,1480,true
+80,1490,true
+80,1500,true
+80,1510,true
+80,1520,true
+80,1530,true
+80,1540,true
+80,1550,true
+80,1560,true
+80,1570,true
+90,1580,true
+90,1590,true
+90,1600,true
+90,1610,true
+90,1200,true
+90,10,true
+90,1620,true
+90,1630,true
+90,1640,true
+90,1650,true
+100,1660,true
+100,1670,true
+100,1680,true
+100,1690,true
+100,1700,true
+100,1450,true
+100,1710,true
+100,1720,true
+100,1730,true
+100,1740,true
+100,1750,true
+100,1760,true
+100,1770,true
+100,1780,true
+100,10,true
+110,1790,true
+110,1800,true
+110,1810,true
+110,1820,true
+110,1830,true
+110,260,true
+110,1840,true
+120,1850,true
+120,1860,true
+120,1870,true
+120,1880,true
+120,1890,true
+120,1900,true
+120,1910,true
+120,1920,true
+120,1930,true
+120,1940,true
+120,1260,true
+120,1950,true
+120,260,true
+120,1960,true
+120,1970,true
+120,1980,true
+120,1990,true
+120,2000,true
+120,2010,true
+130,2020,true
+130,2030,true
+130,2040,true
+130,2050,true
+130,2060,true
+130,2070,true
+130,2080,true
+130,2090,true
+130,2100,true
+130,2110,true
+130,2120,true
+130,2130,true
+130,2140,true
+130,2150,true
+130,2160,true
+130,2170,true
+130,2180,true
+130,2190,true
+140,2200,true
+140,1770,true
+140,2210,true
+140,2220,true
+140,2230,true
+140,2240,true
+140,2250,true
+140,830,true
+140,2260,true
+140,2270,true
+140,2280,true
+140,2290,true
+140,10,true
+140,2300,true
+140,2310,true
+140,2320,true
+140,2330,true
+140,2340,true
+140,1810,true
+140,2350,true
+140,2360,true
+140,2370,true
+140,2380,true
+140,150,true
+140,2390,true
+140,2400,true
+140,1260,true
+140,2410,true
+140,2420,true
+140,2430,true
+140,2440,true
+150,2450,true
+150,2460,true
+150,2470,true
+150,2480,true
+150,2490,true
+150,2500,true
+150,2510,true
+150,2520,true
+150,2530,true
+150,2540,true
+150,2550,true
+150,2560,true
+150,2570,true
+150,2580,true
+150,2590,true
+150,2600,true
+150,2610,true
+150,2620,true
+150,2630,true
+150,2640,true
+150,2650,true
+150,2660,true
+150,2670,true
+150,2680,true
+150,2690,true
+150,2700,true
+150,2710,true
+150,2720,true
+150,2730,true
+150,2740,true
+150,2750,true
+150,2760,true
+150,2770,true
+150,2780,true
+150,2790,true
+150,2800,true
+150,2810,true
+150,2820,true
+150,2830,true
+150,240,true
+150,2840,true
+150,2850,true
+150,2860,true
+150,2870,true
+150,2880,true
+150,2890,true
+150,2900,true
+150,210,true
+150,2910,true
+160,2920,true
+160,10,true
+160,1520,true
+160,2930,true
+160,2940,true
+160,2950,true
+160,2960,true
+160,2970,true
+160,2980,true
+160,2990,true
+160,770,true
+170,3000,true
+170,3010,true
+170,3020,true
+170,3030,true
+170,3040,true
+170,3050,true
+170,3060,true
+170,3070,true
+170,3080,true
+170,10,true
+170,2430,true
+170,3090,true
+170,1870,true
+170,3100,true
+170,3110,true
+170,3120,true
+170,3130,true
+170,3140,true
+170,3150,true
+170,3160,true
+170,3170,true
+170,3180,true
+170,3190,true
+180,3200,true
+180,3210,true
+180,3220,true
+180,2210,true
+180,3230,true
+180,3240,true
+180,3250,true
+190,3260,true
+190,830,true
+190,3270,true
+190,3280,true
+190,3290,true
+190,3300,true
+190,30,true
+190,3310,true
+190,3320,true
+190,3330,true
+190,3340,true
+190,3350,true
+190,3360,true
+190,3370,true
+190,3380,true
+190,3390,true
+190,3400,true
+190,3410,true
+190,3420,true
+190,220,true
+190,120,true
+190,990,true
+190,90,true
+190,3430,true
+190,3440,true
+190,180,true
+190,100,true
+190,160,true
+190,110,true
+190,40,true
+190,3450,true
+190,170,true
+190,230,true
+190,240,true
+190,210,true
+190,250,true
+190,3460,true
+190,3470,true
+190,3480,true
+190,3490,true
+190,3500,true
+190,3510,true
+190,3520,true
+190,3530,true
+190,3540,true
+190,140,true
+190,2430,true
+190,3550,true
+190,3560,true
+190,3570,true
+190,3580,true
+190,3590,true
+190,3600,true
+190,3610,true
+190,3620,true
+190,3630,true
+190,3640,true
+190,3650,true
+190,3660,true
+190,3670,true
+190,10,true
+190,3680,true
+190,3690,true
+190,3700,true
+190,3710,true
+190,3720,true
+190,1260,true
+190,260,true
+200,3730,true
+200,3740,true
+200,3750,true
+200,3760,true
+200,3770,true
+200,3780,true
+200,3790,true
+200,3800,true
+200,3810,true
+200,1290,true
+200,3820,true
+200,3830,true
+200,3840,true
+200,3850,true
+200,3860,true
+200,3870,true
+200,3880,true
+200,3890,true
+200,3900,true
+200,10,true
+200,3910,true
+210,3920,true
+210,20,true
+210,3930,true
+210,2720,true
+210,3940,true
+210,3950,true
+210,3960,true
+210,3970,true
+210,3980,true
+210,3990,true
+210,4000,true
+210,4010,true
+210,4020,true
+210,4030,true
+210,4040,true
+210,4050,true
+210,4060,true
+210,4070,true
+210,2510,true
+210,4080,true
+210,4090,true
+210,4100,true
+210,4110,true
+210,4120,true
+210,4130,true
+210,4140,true
+210,4150,true
+210,4160,true
+210,4170,true
+210,4180,true
+210,2620,true
+210,2660,true
+210,4190,true
+210,4200,true
+220,4210,true
+220,4220,true
+220,4230,true
+220,4240,true
+220,4250,true
+220,1440,true
+220,4260,true
+220,4270,true
+220,4280,true
+220,4290,true
+220,4300,true
+220,4310,true
+220,4320,true
+220,3730,true
+220,4330,true
+220,4340,true
+220,4350,true
+220,4360,true
+220,4370,true
+220,4380,true
+220,4390,true
+220,4400,true
+220,4410,true
+220,4420,true
+220,4430,true
+220,4440,true
+220,10,true
+220,4450,true
+220,4460,true
+220,4470,true
+220,4480,true
+220,4490,true
+220,4500,true
+220,4510,true
+220,4520,true
+220,4530,true
+220,4540,true
+220,4550,true
+220,2710,true
+220,3700,true
+220,4560,true
+220,1420,true
+220,4570,true
+220,270,true
+220,2430,true
+220,4580,true
+220,2420,true
+220,4590,true
+220,4600,true
+220,2140,true
+220,4610,true
+220,4620,true
+220,1260,true
+220,4630,true
+220,4640,true
+220,4650,true
+230,4660,true
+230,4670,true
+230,4680,true
+230,4690,true
+230,4700,true
+230,4710,true
+230,4720,true
+230,4730,true
+230,4740,true
+230,4750,true
+230,4760,true
+230,4770,true
+230,4780,true
+230,4790,true
+230,4800,true
+230,4810,true
+230,4820,true
+230,4830,true
+230,4840,true
+230,4850,true
+230,4860,true
+230,4870,true
+230,4880,true
+230,4890,true
+230,4900,true
+230,4910,true
+230,4920,true
+230,4930,true
+240,4940,true
+240,4950,true
+240,4960,true
+240,4970,true
+240,4980,true
+240,4990,true
+240,2850,true
+240,5000,true
+240,5010,true
+240,5020,true
+240,5030,true
+240,5040,true
+240,5050,true
+240,5060,true
+240,5070,true
+240,5080,true
+240,2820,true
+240,5090,true
+240,5100,true
+240,5110,true
+240,5120,true
+240,5130,true
+240,5140,true
+240,5150,true
+240,5160,true
+240,5170,true
+240,5180,true
+240,5190,true
+240,5200,true
+240,5210,true
+240,5220,true
+240,5230,true
+240,5240,true
+240,2750,true
+250,5250,true
+250,5260,true
+250,5270,true
+250,5280,true
+250,2880,true
+250,5290,true
+250,2760,true
+250,5300,true
+250,5310,true
+250,5320,true
+250,5330,true
+250,5340,true
+250,5350,true
+250,5360,true
+250,5370,true
+250,5380,true
+250,5390,true
+250,2430,true
+250,5400,true
+250,5410,true
+250,5420,true
+250,5430,true
+250,5440,true
+250,5450,true
+250,5460,true
+250,5470,true
+250,5480,true
+250,5490,true
+250,5500,true
+250,5510,true
+250,5520,true
+250,5530,true
+250,5540,true
+250,5550,true
+250,2830,true
+250,5560,true
+250,4450,true
+250,5570,true
+250,5580,true
+260,4530,true
+260,5590,true
+260,90,true
+260,60,true
+260,990,true
+260,2210,true
+260,10,true
+260,5600,true
+260,3430,true
+260,100,true
+260,40,true
+260,5610,true
+260,5620,true
+260,5630,true
+260,5640,true
+260,5650,true
+260,140,true
+260,220,true
+260,120,true
+260,1010,true
+260,1000,true
+260,190,true
+260,3440,true
+260,3450,true
+260,110,true
+260,200,true
+260,180,true
+260,160,true
+260,240,true
+260,230,true
+260,170,true
+260,210,true
+260,250,true
+260,5660,true
+260,5670,true
+270,5680,true
+270,5690,true
+270,5700,true
+270,5710,true
+270,5720,true
+270,5730,true
+270,5740,true
+270,5750,true
+270,5760,true
+270,5770,true
+270,5780,true
+270,5790,true
+270,5800,true
+270,5810,true
+270,2430,true
+270,5820,true
+280,20,true
+290,2640,true
+290,2840,true
+300,310,true
+310,20,true
+310,300,true
+330,490,true
+330,20,true
+350,770,true
+360,20,true
+360,5300,true
+410,20,true
+410,470,true
+420,20,true
+440,5300,true
+440,20,true
+450,5300,true
+450,20,true
+470,20,true
+470,460,true
+480,20,true
+480,430,true
+480,310,true
+480,130,true
+480,3670,true
+490,20,true
+500,20,true
+510,30,true
+530,5580,true
+530,30,true
+530,560,true
+540,320,true
+540,2960,true
+540,3570,true
+540,2260,true
+540,3700,true
+540,30,true
+540,3560,true
+550,3670,true
+550,2960,true
+550,30,true
+550,1860,true
+580,2550,true
+620,40,true
+630,770,true
+640,50,true
+650,700,true
+650,780,true
+650,810,true
+650,50,true
+670,760,true
+670,810,true
+710,2360,true
+710,730,true
+710,750,true
+710,760,true
+710,810,true
+710,680,true
+710,4590,true
+710,1080,true
+710,670,true
+710,690,true
+710,10,true
+710,1110,true
+710,50,true
+720,5590,true
+720,4150,true
+720,50,true
+720,4860,true
+730,50,true
+740,3430,true
+740,2550,true
+740,50,true
+750,710,true
+750,810,true
+750,820,true
+750,50,true
+760,2060,true
+760,820,true
+760,700,true
+760,670,true
+760,1260,true
+760,780,true
+760,50,true
+760,810,true
+770,210,true
+770,2850,true
+770,5580,true
+770,2990,true
+780,670,true
+780,810,true
+780,700,true
+790,700,true
+790,690,true
+790,580,true
+790,1350,true
+790,780,true
+790,810,true
+790,50,true
+800,20,true
+800,670,true
+800,4010,true
+800,680,true
+800,810,true
+800,710,true
+800,690,true
+800,50,true
+810,170,true
+810,1260,true
+810,2040,true
+810,660,true
+810,650,true
+810,710,true
+810,5630,true
+810,670,true
+810,790,true
+810,820,true
+810,50,true
+810,760,true
+810,690,true
+810,130,true
+810,780,true
+830,3310,true
+830,10,true
+830,2550,true
+830,140,true
+830,190,true
+850,860,true
+860,850,true
+900,60,true
+910,900,true
+920,930,true
+930,4590,true
+930,920,true
+930,870,true
+960,60,true
+960,930,true
+970,4590,true
+970,1260,true
+970,10,true
+970,1110,true
+970,60,true
+990,150,true
+1000,1200,true
+1000,2430,true
+1000,4810,true
+1010,150,true
+1010,2430,true
+1020,4530,true
+1020,10,true
+1020,850,true
+1020,260,true
+1020,1240,true
+1020,1080,true
+1020,1030,true
+1020,1140,true
+1020,1110,true
+1020,1070,true
+1020,60,true
+1060,1200,true
+1060,1320,true
+1060,220,true
+1060,3450,true
+1060,100,true
+1060,180,true
+1060,200,true
+1060,140,true
+1060,4590,true
+1060,260,true
+1060,160,true
+1060,240,true
+1060,60,true
+1060,90,true
+1060,3430,true
+1070,10,true
+1070,3450,true
+1080,190,true
+1080,120,true
+1080,200,true
+1080,210,true
+1080,1110,true
+1080,180,true
+1080,80,true
+1080,90,true
+1080,70,true
+1080,50,true
+1080,40,true
+1080,100,true
+1080,3430,true
+1080,60,true
+1080,3360,true
+1080,1180,true
+1080,580,true
+1080,1360,true
+1100,130,true
+1110,1010,true
+1110,1000,true
+1110,4590,true
+1110,10,true
+1110,750,true
+1110,3450,true
+1110,3440,true
+1110,1490,true
+1110,1290,true
+1110,3490,true
+1110,990,true
+1110,1080,true
+1110,1310,true
+1110,3430,true
+1110,3360,true
+1110,80,true
+1110,100,true
+1110,50,true
+1110,70,true
+1110,60,true
+1110,180,true
+1120,1140,true
+1120,60,true
+1120,1150,true
+1130,4500,true
+1140,10,true
+1140,1120,true
+1140,60,true
+1150,1020,true
+1150,2260,true
+1150,4590,true
+1150,4260,true
+1150,60,true
+1150,1140,true
+1150,1120,true
+1160,1220,true
+1160,1170,true
+1160,60,true
+1170,170,true
+1170,1160,true
+1170,1230,true
+1170,1220,true
+1200,5220,true
+1200,4690,true
+1200,60,true
+1200,90,true
+1200,240,true
+1200,2340,true
+1200,5020,true
+1200,1000,true
+1200,2880,true
+1200,1320,true
+1200,4570,true
+1220,220,true
+1220,60,true
+1220,230,true
+1220,1160,true
+1220,1170,true
+1240,1020,true
+1240,60,true
+1240,1090,true
+1240,1420,true
+1250,60,true
+1260,4450,true
+1260,4590,true
+1270,1390,true
+1270,3190,true
+1270,1380,true
+1270,3440,true
+1270,1430,true
+1270,70,true
+1280,70,true
+1280,1600,true
+1290,140,true
+1290,70,true
+1290,100,true
+1290,80,true
+1290,110,true
+1290,3430,true
+1290,1310,true
+1290,1080,true
+1290,990,true
+1290,3490,true
+1290,750,true
+1290,1420,true
+1290,10,true
+1290,40,true
+1290,1110,true
+1290,60,true
+1290,3060,true
+1290,5540,true
+1290,5520,true
+1290,5450,true
+1290,5440,true
+1290,5430,true
+1290,5410,true
+1290,3440,true
+1290,90,true
+1290,3450,true
+1290,170,true
+1290,250,true
+1290,180,true
+1290,220,true
+1290,210,true
+1290,190,true
+1290,50,true
+1290,1010,true
+1290,240,true
+1290,3360,true
+1300,1080,true
+1300,1290,true
+1300,3450,true
+1300,1000,true
+1300,1010,true
+1300,3490,true
+1300,990,true
+1300,3440,true
+1300,1110,true
+1300,3360,true
+1300,80,true
+1300,70,true
+1300,50,true
+1300,40,true
+1300,3430,true
+1300,60,true
+1300,1200,true
+1300,1310,true
+1310,1110,true
+1310,70,true
+1320,240,true
+1350,790,true
+1350,780,true
+1350,40,true
+1350,3430,true
+1350,4580,true
+1360,190,true
+1360,990,true
+1360,170,true
+1360,250,true
+1360,110,true
+1380,2540,true
+1380,2430,true
+1380,1410,true
+1380,1430,true
+1380,2900,true
+1380,2890,true
+1380,2400,true
+1380,10,true
+1380,5060,true
+1380,3410,true
+1380,150,true
+1380,1320,true
+1380,1200,true
+1380,70,true
+1390,1430,true
+1390,70,true
+1400,1410,true
+1400,1290,true
+1400,1260,true
+1400,110,true
+1400,70,true
+1400,990,true
+1400,100,true
+1410,1070,true
+1410,1390,true
+1410,1430,true
+1410,70,true
+1420,4590,true
+1420,2430,true
+1420,2850,true
+1420,2870,true
+1420,1490,true
+1430,1080,true
+1430,1380,true
+1430,1300,true
+1430,1410,true
+1430,1370,true
+1430,70,true
+1440,80,true
+1440,10,true
+1440,1420,true
+1440,230,true
+1440,220,true
+1440,240,true
+1460,1570,true
+1460,80,true
+1470,1550,true
+1470,80,true
+1470,1570,true
+1480,2260,true
+1480,220,true
+1490,260,true
+1490,170,true
+1490,250,true
+1490,240,true
+1490,230,true
+1490,220,true
+1490,210,true
+1490,4590,true
+1490,1420,true
+1500,1420,true
+1500,3230,true
+1500,190,true
+1500,1000,true
+1500,40,true
+1500,120,true
+1500,110,true
+1500,230,true
+1500,170,true
+1500,140,true
+1500,100,true
+1500,200,true
+1500,160,true
+1500,1010,true
+1500,250,true
+1500,220,true
+1500,210,true
+1500,240,true
+1500,1260,true
+1500,4590,true
+1510,80,true
+1520,1830,true
+1520,40,true
+1520,110,true
+1520,1010,true
+1520,160,true
+1540,80,true
+1550,1570,true
+1560,30,true
+1560,4760,true
+1560,210,true
+1560,80,true
+1560,4850,true
+1560,3700,true
+1560,990,true
+1560,190,true
+1560,3440,true
+1560,160,true
+1560,4590,true
+1560,1420,true
+1560,2430,true
+1560,2550,true
+1560,1010,true
+1560,180,true
+1560,3490,true
+1560,3450,true
+1560,230,true
+1560,110,true
+1560,140,true
+1560,220,true
+1560,60,true
+1560,250,true
+1560,240,true
+1570,1550,true
+1580,90,true
+1580,5300,true
+1580,4500,true
+1580,5820,true
+1580,3020,true
+1600,90,true
+1600,1280,true
+1610,90,true
+1610,480,true
+1660,1760,true
+1660,1770,true
+1660,10,true
+1660,100,true
+1660,1720,true
+1670,1770,true
+1670,1690,true
+1670,1730,true
+1670,100,true
+1690,2490,true
+1690,2990,true
+1690,770,true
+1690,5580,true
+1700,1730,true
+1700,2870,true
+1700,2800,true
+1700,100,true
+1730,1770,true
+1730,3920,true
+1730,4500,true
+1730,100,true
+1730,2450,true
+1730,2490,true
+1730,150,true
+1760,100,true
+1770,3620,true
+1770,100,true
+1780,70,true
+1780,10,true
+1810,40,true
+1810,140,true
+1820,770,true
+1820,3680,true
+1830,1520,true
+1830,2840,true
+1830,2690,true
+1830,2480,true
+1830,120,true
+1830,160,true
+1830,170,true
+1830,180,true
+1830,140,true
+1830,250,true
+1830,200,true
+1830,1010,true
+1830,110,true
+1830,1000,true
+1830,60,true
+1830,40,true
+1830,210,true
+1830,240,true
+1830,220,true
+1830,230,true
+1860,230,true
+1860,220,true
+1860,2840,true
+1860,120,true
+1860,170,true
+1860,210,true
+1860,2450,true
+1860,250,true
+1860,550,true
+1870,120,true
+1870,4070,true
+1870,2430,true
+1870,270,true
+1870,3170,true
+1870,3160,true
+1870,3140,true
+1870,3130,true
+1870,3120,true
+1870,3110,true
+1870,3150,true
+1870,3180,true
+1870,3190,true
+1870,4590,true
+1870,1420,true
+1870,170,true
+1870,3090,true
+1880,2640,true
+1880,4450,true
+1880,4210,true
+1880,1910,true
+1880,2250,true
+1880,2870,true
+1880,4590,true
+1880,1970,true
+1880,4040,true
+1880,120,true
+1880,10,true
+1890,120,true
+1890,5430,true
+1890,5540,true
+1890,2830,true
+1890,250,true
+1890,2660,true
+1900,1960,true
+1900,2010,true
+1900,120,true
+1910,1860,true
+1910,2720,true
+1910,150,true
+1910,2800,true
+1910,2630,true
+1910,4110,true
+1910,2580,true
+1910,10,true
+1910,5410,true
+1910,4690,true
+1910,300,true
+1910,4040,true
+1910,1950,true
+1910,1970,true
+1910,120,true
+1910,2870,true
+1930,120,true
+1940,4590,true
+1940,120,true
+1970,1950,true
+1970,1940,true
+1970,1910,true
+1970,1980,true
+1970,4040,true
+1970,2010,true
+1970,770,true
+1970,120,true
+1980,2010,true
+1980,120,true
+1990,1530,true
+1990,2010,true
+1990,120,true
+2000,1070,true
+2000,120,true
+2010,120,true
+2030,130,true
+2030,2050,true
+2040,130,true
+2050,2030,true
+2060,130,true
+2080,130,true
+2080,3450,true
+2090,2180,true
+2090,130,true
+2100,2110,true
+2130,2140,true
+2130,220,true
+2140,2130,true
+2140,220,true
+2150,130,true
+2160,5640,true
+2160,5560,true
+2170,130,true
+2180,2160,true
+2180,2040,true
+2180,4560,true
+2180,2060,true
+2180,1960,true
+2180,2640,true
+2180,130,true
+2190,130,true
+2210,3970,true
+2210,3220,true
+2210,3620,true
+2210,180,true
+2210,4510,true
+2210,3230,true
+2220,140,true
+2220,2640,true
+2250,120,true
+2250,1320,true
+2250,1200,true
+2260,140,true
+2260,10,true
+2260,240,true
+2260,2630,true
+2270,140,true
+2280,140,true
+2280,230,true
+2280,580,true
+2280,2940,true
+2290,140,true
+2300,10,true
+2300,140,true
+2300,290,true
+2300,2640,true
+2310,4240,true
+2320,2410,true
+2320,2400,true
+2320,4160,true
+2320,2350,true
+2320,140,true
+2320,1200,true
+2320,1320,true
+2320,170,true
+2330,140,true
+2330,2870,true
+2330,2840,true
+2350,2840,true
+2350,2410,true
+2350,140,true
+2390,240,true
+2390,220,true
+2390,140,true
+2400,2540,true
+2400,150,true
+2400,140,true
+2420,2870,true
+2420,2530,true
+2420,2640,true
+2420,2470,true
+2420,2730,true
+2420,10,true
+2420,770,true
+2420,110,true
+2420,1010,true
+2420,1000,true
+2420,140,true
+2420,170,true
+2420,220,true
+2420,150,true
+2420,2620,true
+2420,210,true
+2420,4450,true
+2420,4590,true
+2420,240,true
+2420,2990,true
+2420,5580,true
+2420,2840,true
+2420,250,true
+2420,1810,true
+2430,5350,true
+2430,2840,true
+2430,230,true
+2430,2650,true
+2430,10,true
+2430,2630,true
+2430,5820,true
+2430,5750,true
+2430,5710,true
+2430,2890,true
+2430,5690,true
+2430,5680,true
+2430,220,true
+2430,2820,true
+2430,240,true
+2430,1260,true
+2430,4590,true
+2430,1010,true
+2430,270,true
+2430,250,true
+2430,290,true
+2430,5580,true
+2440,140,true
+2450,5300,true
+2450,2720,true
+2470,2860,true
+2470,2730,true
+2470,150,true
+2470,2910,true
+2480,150,true
+2490,5280,true
+2490,4040,true
+2490,4590,true
+2490,240,true
+2490,1730,true
+2490,2610,true
+2490,2790,true
+2500,2470,true
+2500,2640,true
+2500,2650,true
+2500,2530,true
+2500,5550,true
+2500,2450,true
+2500,2480,true
+2500,2840,true
+2500,2870,true
+2500,2910,true
+2500,150,true
+2500,2670,true
+2500,2800,true
+2500,2860,true
+2500,2680,true
+2510,4070,true
+2510,4100,true
+2510,4130,true
+2510,4110,true
+2510,4120,true
+2510,2710,true
+2510,4240,true
+2510,2310,true
+2510,5260,true
+2510,5350,true
+2510,2870,true
+2510,4190,true
+2510,4080,true
+2510,4170,true
+2510,4180,true
+2510,2620,true
+2510,2660,true
+2510,4160,true
+2510,210,true
+2520,2910,true
+2520,4050,true
+2520,2870,true
+2520,2570,true
+2520,2850,true
+2530,2470,true
+2530,2600,true
+2530,2510,true
+2530,2730,true
+2530,2640,true
+2530,2720,true
+2530,2900,true
+2530,2650,true
+2530,2620,true
+2530,2800,true
+2530,150,true
+2540,2900,true
+2540,2890,true
+2540,2400,true
+2540,3830,true
+2540,2430,true
+2540,2640,true
+2540,150,true
+2550,4450,true
+2550,830,true
+2570,2870,true
+2580,2670,true
+2580,150,true
+2590,2870,true
+2590,230,true
+2590,2670,true
+2590,250,true
+2610,2490,true
+2620,5300,true
+2620,4180,true
+2620,4210,true
+2620,4330,true
+2620,3960,true
+2620,2720,true
+2620,4080,true
+2620,2870,true
+2620,4070,true
+2620,4040,true
+2620,4050,true
+2620,4160,true
+2620,10,true
+2620,4090,true
+2620,2510,true
+2620,2660,true
+2620,4100,true
+2620,5310,true
+2620,4110,true
+2620,4130,true
+2620,4120,true
+2620,2280,true
+2620,4170,true
+2620,4200,true
+2620,2530,true
+2620,210,true
+2620,150,true
+2640,2620,true
+2640,2800,true
+2640,2870,true
+2640,150,true
+2650,150,true
+2650,2530,true
+2660,2620,true
+2660,5430,true
+2660,210,true
+2660,5580,true
+2660,250,true
+2670,2570,true
+2670,2810,true
+2670,2650,true
+2670,2620,true
+2670,2800,true
+2670,2910,true
+2670,2540,true
+2670,2690,true
+2670,210,true
+2670,2530,true
+2670,2860,true
+2670,2470,true
+2670,2580,true
+2670,2870,true
+2680,2500,true
+2690,3920,true
+2690,2520,true
+2710,4160,true
+2710,220,true
+2720,210,true
+2720,2450,true
+2730,2310,true
+2730,2870,true
+2730,2720,true
+2730,2470,true
+2730,2530,true
+2730,2820,true
+2730,2610,true
+2730,2580,true
+2730,5350,true
+2730,2770,true
+2730,2750,true
+2730,2740,true
+2730,2850,true
+2730,2780,true
+2730,2790,true
+2730,150,true
+2740,4590,true
+2740,140,true
+2740,150,true
+2740,170,true
+2750,2880,true
+2750,240,true
+2750,2820,true
+2760,4450,true
+2760,5540,true
+2760,5520,true
+2760,5450,true
+2760,5440,true
+2760,5430,true
+2760,5410,true
+2760,5400,true
+2760,5380,true
+2760,5350,true
+2760,5340,true
+2760,250,true
+2760,2840,true
+2780,2720,true
+2790,2490,true
+2800,2840,true
+2800,2500,true
+2810,290,true
+2810,4450,true
+2810,2640,true
+2810,2840,true
+2820,5540,true
+2820,5020,true
+2820,2630,true
+2820,2750,true
+2820,2850,true
+2820,240,true
+2820,2430,true
+2820,150,true
+2830,250,true
+2840,150,true
+2850,2990,true
+2850,5580,true
+2850,4970,true
+2850,240,true
+2860,290,true
+2860,150,true
+2870,2640,true
+2870,150,true
+2880,10,true
+2880,250,true
+2880,290,true
+2880,2840,true
+2880,1200,true
+2890,150,true
+2900,2430,true
+2900,2540,true
+2900,150,true
+2910,2470,true
+2910,2530,true
+2910,2550,true
+2910,140,true
+2910,220,true
+2910,210,true
+2910,10,true
+2910,240,true
+2910,150,true
+2920,160,true
+2990,4050,true
+2990,770,true
+2990,5580,true
+3010,3160,true
+3010,3060,true
+3010,3110,true
+3010,3180,true
+3010,170,true
+3020,3060,true
+3020,170,true
+3020,2640,true
+3040,3050,true
+3060,4590,true
+3060,150,true
+3060,170,true
+3070,170,true
+3090,4070,true
+3090,2540,true
+3090,170,true
+3090,320,true
+3110,3010,true
+3110,3140,true
+3110,3150,true
+3110,3190,true
+3110,170,true
+3120,3020,true
+3120,3090,true
+3120,3140,true
+3120,10,true
+3120,4590,true
+3120,3160,true
+3120,3110,true
+3120,3170,true
+3120,3180,true
+3120,3150,true
+3120,3190,true
+3120,170,true
+3130,3010,true
+3130,3020,true
+3130,3190,true
+3130,3180,true
+3130,3160,true
+3130,3150,true
+3130,3140,true
+3130,3120,true
+3130,3110,true
+3130,3170,true
+3130,170,true
+3140,3090,true
+3140,3120,true
+3140,3180,true
+3140,3170,true
+3140,3190,true
+3140,3150,true
+3140,170,true
+3150,3090,true
+3150,170,true
+3160,170,true
+3180,3050,true
+3180,3170,true
+3180,3140,true
+3180,3150,true
+3180,3190,true
+3180,3010,true
+3180,3120,true
+3180,170,true
+3190,3120,true
+3200,180,true
+3220,3970,true
+3220,3620,true
+3220,3230,true
+3220,4510,true
+3220,180,true
+3230,830,true
+3230,560,true
+3240,5580,true
+3240,180,true
+3250,180,true
+3270,190,true
+3290,2580,true
+3310,190,true
+3310,2550,true
+3310,2870,true
+3330,3370,true
+3330,190,true
+3360,1110,true
+3360,150,true
+3360,5080,true
+3370,3260,true
+3370,3280,true
+3370,3330,true
+3370,3460,true
+3370,2940,true
+3370,3640,true
+3370,3700,true
+3370,3510,true
+3370,3530,true
+3370,3570,true
+3370,550,true
+3370,190,true
+3370,3720,true
+3370,3670,true
+3380,4440,true
+3420,10,true
+3420,4450,true
+3420,210,true
+3420,240,true
+3430,1080,true
+3430,1110,true
+3430,3230,true
+3430,10,true
+3430,1200,true
+3440,1080,true
+3440,260,true
+3440,5580,true
+3440,770,true
+3440,1260,true
+3450,10,true
+3460,2140,true
+3470,3330,true
+3470,190,true
+3480,190,true
+3490,1070,true
+3490,1260,true
+3490,1110,true
+3510,190,true
+3520,2870,true
+3520,4640,true
+3520,2620,true
+3550,2550,true
+3550,3720,true
+3550,2940,true
+3550,3570,true
+3550,170,true
+3550,190,true
+3550,140,true
+3560,550,true
+3560,540,true
+3580,990,true
+3580,190,true
+3590,2960,true
+3630,100,true
+3630,1420,true
+3630,150,true
+3640,1260,true
+3640,3370,true
+3640,3590,true
+3640,190,true
+3650,180,true
+3650,210,true
+3650,1110,true
+3650,190,true
+3650,3450,true
+3650,120,true
+3650,140,true
+3650,200,true
+3650,170,true
+3650,10,true
+3650,4450,true
+3650,1260,true
+3650,260,true
+3660,4450,true
+3660,2660,true
+3660,3440,true
+3660,220,true
+3660,1000,true
+3660,990,true
+3660,200,true
+3660,190,true
+3660,170,true
+3660,160,true
+3660,3450,true
+3660,1010,true
+3660,140,true
+3660,120,true
+3660,110,true
+3660,10,true
+3660,210,true
+3660,2620,true
+3660,240,true
+3660,180,true
+3660,2870,true
+3660,250,true
+3660,230,true
+3660,3490,true
+3660,4590,true
+3660,3720,true
+3700,4450,true
+3760,3910,true
+3760,200,true
+3770,4590,true
+3770,200,true
+3780,200,true
+3800,3810,true
+3800,200,true
+3810,5290,true
+3810,3800,true
+3810,220,true
+3810,210,true
+3810,250,true
+3810,170,true
+3810,200,true
+3820,2810,true
+3820,2880,true
+3820,3850,true
+3820,10,true
+3820,200,true
+3820,150,true
+3820,4450,true
+3820,2840,true
+3830,2500,true
+3830,2640,true
+3840,3890,true
+3840,3910,true
+3840,200,true
+3850,2430,true
+3850,3820,true
+3850,5580,true
+3850,200,true
+3860,3910,true
+3860,200,true
+3870,200,true
+3880,200,true
+3900,3910,true
+3900,200,true
+3910,3750,true
+3910,130,true
+3910,3900,true
+3910,200,true
+3930,210,true
+3930,4190,true
+3960,4590,true
+3960,4180,true
+3960,4190,true
+3960,4170,true
+3960,4100,true
+3960,4080,true
+3960,4070,true
+3960,4130,true
+3960,10,true
+3960,2660,true
+3960,4160,true
+3960,210,true
+3960,2620,true
+3960,2870,true
+4000,210,true
+4000,5430,true
+4000,2750,true
+4000,5520,true
+4000,4370,true
+4000,160,true
+4000,190,true
+4000,3440,true
+4000,5050,true
+4000,2850,true
+4000,5450,true
+4000,2660,true
+4000,770,true
+4000,250,true
+4010,210,true
+4010,2690,true
+4010,560,true
+4010,4110,true
+4010,160,true
+4010,3440,true
+4010,190,true
+4010,5580,true
+4010,2990,true
+4010,4190,true
+4010,2850,true
+4010,5450,true
+4010,3230,true
+4010,250,true
+4030,210,true
+4050,4030,true
+4050,2620,true
+4050,4070,true
+4050,2510,true
+4050,4170,true
+4050,2660,true
+4050,4160,true
+4050,4120,true
+4050,4180,true
+4050,4130,true
+4050,4040,true
+4050,4060,true
+4050,4110,true
+4050,4080,true
+4050,4190,true
+4050,4100,true
+4050,2650,true
+4050,5580,true
+4050,770,true
+4050,2990,true
+4050,5050,true
+4060,150,true
+4070,3920,true
+4070,210,true
+4070,3960,true
+4070,2620,true
+4080,210,true
+4080,270,true
+4080,150,true
+4090,4200,true
+4100,5580,true
+4100,2660,true
+4100,10,true
+4100,210,true
+4110,2620,true
+4110,5670,true
+4110,4450,true
+4110,4190,true
+4110,4160,true
+4110,4100,true
+4110,4060,true
+4110,2660,true
+4110,4170,true
+4110,2510,true
+4110,4080,true
+4110,4120,true
+4110,4130,true
+4110,4070,true
+4110,4040,true
+4110,4050,true
+4110,10,true
+4110,4200,true
+4110,4000,true
+4110,4010,true
+4110,4590,true
+4110,210,true
+4120,210,true
+4130,770,true
+4130,5580,true
+4130,4170,true
+4130,4120,true
+4130,2510,true
+4130,2620,true
+4130,210,true
+4130,4200,true
+4130,2660,true
+4130,4180,true
+4130,4100,true
+4130,4190,true
+4140,210,true
+4140,4200,true
+4140,2620,true
+4150,4080,true
+4150,4100,true
+4150,4110,true
+4150,4120,true
+4150,4130,true
+4150,4160,true
+4150,4170,true
+4150,4180,true
+4150,2620,true
+4150,2660,true
+4150,4190,true
+4150,720,true
+4150,10,true
+4150,4040,true
+4150,4050,true
+4150,4060,true
+4150,4070,true
+4150,210,true
+4150,2540,true
+4150,4090,true
+4160,4040,true
+4160,4120,true
+4160,2510,true
+4160,320,true
+4160,4070,true
+4160,5430,true
+4160,4190,true
+4160,2630,true
+4160,2750,true
+4160,4180,true
+4160,2850,true
+4160,5020,true
+4160,2820,true
+4160,4170,true
+4160,5490,true
+4160,2310,true
+4160,5540,true
+4160,5260,true
+4160,4080,true
+4160,5450,true
+4160,2660,true
+4160,2870,true
+4160,2840,true
+4160,4130,true
+4160,4100,true
+4160,4240,true
+4160,2710,true
+4160,2450,true
+4160,2640,true
+4160,5350,true
+4160,4200,true
+4160,2260,true
+4160,270,true
+4160,2430,true
+4160,4450,true
+4160,2620,true
+4160,210,true
+4170,4200,true
+4170,5580,true
+4170,210,true
+4190,5580,true
+4190,210,true
+4200,2720,true
+4200,3970,true
+4200,4060,true
+4200,4070,true
+4200,4050,true
+4200,4040,true
+4200,4030,true
+4200,4020,true
+4200,770,true
+4200,5580,true
+4200,2990,true
+4200,2510,true
+4200,1070,true
+4200,4150,true
+4200,4090,true
+4200,4110,true
+4200,4130,true
+4200,4120,true
+4200,4180,true
+4200,4080,true
+4200,4160,true
+4200,4170,true
+4200,4590,true
+4200,1260,true
+4200,10,true
+4200,4450,true
+4200,4190,true
+4200,4100,true
+4200,2660,true
+4200,2620,true
+4200,4140,true
+4200,210,true
+4210,220,true
+4210,4590,true
+4210,2630,true
+4210,4080,true
+4210,5450,true
+4210,4110,true
+4210,4190,true
+4210,1950,true
+4210,2750,true
+4210,4690,true
+4210,4180,true
+4210,2620,true
+4210,2260,true
+4210,150,true
+4210,4570,true
+4210,4360,true
+4210,2710,true
+4210,4310,true
+4210,4280,true
+4210,4340,true
+4210,4240,true
+4210,4290,true
+4210,4230,true
+4210,3730,true
+4220,4570,true
+4220,4310,true
+4220,2710,true
+4220,220,true
+4220,4600,true
+4240,4210,true
+4240,150,true
+4240,250,true
+4250,4200,true
+4290,4640,true
+4290,1260,true
+4290,4600,true
+4290,4570,true
+4290,2710,true
+4290,4520,true
+4290,4450,true
+4290,4410,true
+4290,4390,true
+4290,4380,true
+4290,4370,true
+4290,4360,true
+4290,4340,true
+4290,3730,true
+4290,4330,true
+4290,2570,true
+4290,2140,true
+4290,10,true
+4290,220,true
+4310,2990,true
+4310,5580,true
+4310,2760,true
+4310,2810,true
+4310,5020,true
+4310,2570,true
+4310,4520,true
+4310,220,true
+4310,2860,true
+4310,4570,true
+4320,150,true
+4320,220,true
+4330,4550,true
+4330,2720,true
+4330,1420,true
+4330,4320,true
+4330,4050,true
+4330,4000,true
+4330,3990,true
+4330,770,true
+4330,5430,true
+4330,2820,true
+4330,4360,true
+4330,4520,true
+4330,4450,true
+4330,2710,true
+4330,4570,true
+4330,2870,true
+4330,4310,true
+4330,4340,true
+4330,2620,true
+4330,5350,true
+4330,5450,true
+4330,5540,true
+4330,2660,true
+4330,250,true
+4330,220,true
+4340,4450,true
+4340,220,true
+4360,4390,true
+4360,220,true
+4360,2800,true
+4370,270,true
+4370,220,true
+4370,2490,true
+4370,4450,true
+4380,4300,true
+4380,4650,true
+4380,1260,true
+4380,4610,true
+4380,4580,true
+4380,2140,true
+4380,4590,true
+4380,2430,true
+4380,270,true
+4380,4250,true
+4380,4560,true
+4380,4540,true
+4380,4450,true
+4380,4640,true
+4380,4620,true
+4380,4630,true
+4380,4530,true
+4380,4600,true
+4380,10,true
+4380,220,true
+4390,4370,true
+4390,220,true
+4400,480,true
+4410,150,true
+4410,2140,true
+4420,420,true
+4420,10,true
+4420,4640,true
+4420,4600,true
+4420,220,true
+4430,770,true
+4430,5580,true
+4450,2650,true
+4450,2800,true
+4450,2860,true
+4450,5540,true
+4450,2850,true
+4450,2810,true
+4450,2570,true
+4450,4050,true
+4450,2720,true
+4450,4570,true
+4450,5350,true
+4450,2450,true
+4450,2760,true
+4450,770,true
+4450,2620,true
+4450,5580,true
+4450,3700,true
+4450,2690,true
+4450,240,true
+4450,220,true
+4450,2870,true
+4450,2700,true
+4450,250,true
+4450,2840,true
+4450,210,true
+4510,4210,true
+4510,5350,true
+4510,990,true
+4510,2730,true
+4510,2470,true
+4510,2680,true
+4510,2810,true
+4510,2640,true
+4510,2530,true
+4510,2910,true
+4510,4080,true
+4510,2740,true
+4510,2620,true
+4510,2630,true
+4510,2550,true
+4510,220,true
+4510,210,true
+4510,2820,true
+4520,220,true
+4520,4450,true
+4530,4210,true
+4530,4250,true
+4530,4490,true
+4530,4480,true
+4530,4460,true
+4530,4470,true
+4530,4420,true
+4530,4350,true
+4530,4330,true
+4530,3730,true
+4530,4380,true
+4530,4520,true
+4530,4390,true
+4530,4370,true
+4530,4340,true
+4530,4360,true
+4530,580,true
+4530,4410,true
+4530,1080,true
+4530,4650,true
+4530,1260,true
+4530,4610,true
+4530,2140,true
+4530,4590,true
+4530,2420,true
+4530,4580,true
+4530,2430,true
+4530,270,true
+4530,4570,true
+4530,1420,true
+4530,4560,true
+4530,4810,true
+4530,2710,true
+4530,4550,true
+4530,4540,true
+4530,4600,true
+4530,150,true
+4530,4500,true
+4530,10,true
+4530,4450,true
+4530,4440,true
+4530,2260,true
+4530,4430,true
+4530,4640,true
+4530,4620,true
+4530,4630,true
+4530,220,true
+4540,220,true
+4550,4570,true
+4550,2710,true
+4550,220,true
+4560,220,true
+4560,210,true
+4570,1200,true
+4570,1320,true
+4570,220,true
+4580,4530,true
+4580,1350,true
+4580,210,true
+4580,220,true
+4590,2620,true
+4590,4210,true
+4590,2490,true
+4590,110,true
+4590,2820,true
+4590,1260,true
+4600,4530,true
+4600,220,true
+4600,4640,true
+4600,4630,true
+4600,4620,true
+4600,2140,true
+4620,2140,true
+4620,4530,true
+4620,4600,true
+4620,4630,true
+4620,4640,true
+4620,220,true
+4630,4620,true
+4630,4530,true
+4630,2140,true
+4630,4600,true
+4630,220,true
+4630,4640,true
+4640,4530,true
+4640,2140,true
+4640,4620,true
+4640,3520,true
+4640,4590,true
+4640,4600,true
+4640,4630,true
+4640,220,true
+4650,4380,true
+4650,220,true
+4680,4860,true
+4690,10,true
+4690,230,true
+4690,1200,true
+4710,3410,true
+4720,4780,true
+4730,230,true
+4760,1560,true
+4790,4280,true
+4790,4780,true
+4790,4720,true
+4790,4770,true
+4790,4860,true
+4790,10,true
+4790,4800,true
+4790,5080,true
+4790,1070,true
+4790,230,true
+4800,4720,true
+4800,230,true
+4800,1070,true
+4800,4910,true
+4800,4840,true
+4800,4930,true
+4800,4790,true
+4810,10,true
+4810,260,true
+4810,240,true
+4810,1180,true
+4810,1000,true
+4810,220,true
+4810,140,true
+4810,230,true
+4810,250,true
+4810,170,true
+4810,210,true
+4820,4930,true
+4820,230,true
+4840,4760,true
+4840,4800,true
+4840,4790,true
+4840,130,true
+4840,4930,true
+4840,4870,true
+4840,4560,true
+4840,140,true
+4840,230,true
+4850,230,true
+4860,230,true
+4870,130,true
+4870,140,true
+4870,230,true
+4870,4840,true
+4880,2800,true
+4880,2260,true
+4880,1260,true
+4910,230,true
+4910,4930,true
+4920,1610,true
+4920,230,true
+4920,240,true
+4930,230,true
+4930,4910,true
+4940,2750,true
+4940,240,true
+4940,40,true
+4940,120,true
+4940,3420,true
+4950,4450,true
+4950,5540,true
+4950,5240,true
+4950,2630,true
+4950,2750,true
+4950,5020,true
+4950,2820,true
+4950,2850,true
+4950,1320,true
+4950,10,true
+4950,240,true
+4960,240,true
+4970,5220,true
+4970,2850,true
+4970,5050,true
+4970,5020,true
+4970,2820,true
+4970,2750,true
+4970,240,true
+4990,240,true
+5000,220,true
+5000,250,true
+5000,120,true
+5000,100,true
+5000,2490,true
+5000,2750,true
+5000,5050,true
+5000,5020,true
+5000,2850,true
+5000,2630,true
+5000,2820,true
+5000,240,true
+5020,4120,true
+5020,2630,true
+5020,2750,true
+5020,4310,true
+5020,1200,true
+5020,1320,true
+5020,240,true
+5030,2820,true
+5030,240,true
+5040,1260,true
+5040,5030,true
+5040,240,true
+5050,240,true
+5050,5580,true
+5060,240,true
+5060,2540,true
+5070,260,true
+5070,1320,true
+5070,1200,true
+5070,2630,true
+5070,2750,true
+5070,5020,true
+5070,2850,true
+5070,1420,true
+5070,5240,true
+5070,2820,true
+5070,240,true
+5080,160,true
+5080,180,true
+5080,990,true
+5080,3450,true
+5080,1000,true
+5080,210,true
+5080,230,true
+5080,3440,true
+5080,140,true
+5080,250,true
+5080,1010,true
+5080,170,true
+5080,240,true
+5080,1070,true
+5090,2750,true
+5090,2850,true
+5090,5020,true
+5090,2820,true
+5090,5240,true
+5090,240,true
+5100,5050,true
+5100,2850,true
+5100,2630,true
+5100,230,true
+5100,150,true
+5100,320,true
+5100,5580,true
+5100,2860,true
+5100,2990,true
+5100,2870,true
+5100,1420,true
+5100,2620,true
+5100,5030,true
+5100,260,true
+5100,5150,true
+5100,5090,true
+5100,5140,true
+5100,5130,true
+5100,5210,true
+5100,5220,true
+5100,5070,true
+5100,5110,true
+5100,5190,true
+5100,2430,true
+5100,4590,true
+5100,5230,true
+5100,5170,true
+5100,5180,true
+5100,2840,true
+5100,10,true
+5100,2820,true
+5100,2750,true
+5100,5240,true
+5100,5120,true
+5100,240,true
+5110,2820,true
+5110,5160,true
+5110,240,true
+5120,240,true
+5130,2850,true
+5130,5020,true
+5130,2630,true
+5130,5240,true
+5130,2820,true
+5130,2750,true
+5130,240,true
+5140,3440,true
+5140,4590,true
+5140,5240,true
+5140,240,true
+5150,2850,true
+5150,5230,true
+5150,5210,true
+5150,5180,true
+5150,5160,true
+5150,5020,true
+5150,5070,true
+5150,2430,true
+5150,5030,true
+5150,5050,true
+5150,770,true
+5150,2750,true
+5150,5240,true
+5150,5220,true
+5150,5190,true
+5150,5170,true
+5150,5140,true
+5150,5130,true
+5150,5090,true
+5150,2820,true
+5150,5040,true
+5150,5580,true
+5150,2990,true
+5150,150,true
+5150,10,true
+5150,240,true
+5160,5540,true
+5160,2630,true
+5160,5020,true
+5160,2750,true
+5160,2850,true
+5160,2820,true
+5160,5110,true
+5160,240,true
+5170,2630,true
+5170,5220,true
+5170,5240,true
+5170,240,true
+5180,2630,true
+5180,2750,true
+5180,5020,true
+5180,5050,true
+5180,240,true
+5180,2880,true
+5180,2820,true
+5190,5240,true
+5190,240,true
+5200,4970,true
+5200,5070,true
+5200,10,true
+5200,240,true
+5210,5000,true
+5210,2850,true
+5210,5020,true
+5210,3520,true
+5210,5220,true
+5210,5050,true
+5210,2630,true
+5210,5240,true
+5210,240,true
+5210,2820,true
+5210,2750,true
+5220,2750,true
+5220,4970,true
+5220,2850,true
+5220,2630,true
+5220,5020,true
+5220,2820,true
+5220,5050,true
+5220,240,true
+5230,5540,true
+5230,2820,true
+5230,2850,true
+5230,5030,true
+5230,5170,true
+5230,5050,true
+5230,5120,true
+5230,240,true
+5230,5090,true
+5230,5220,true
+5230,5190,true
+5230,2750,true
+5250,770,true
+5250,250,true
+5250,5580,true
+5260,4240,true
+5260,250,true
+5260,2710,true
+5280,250,true
+5290,3880,true
+5290,4520,true
+5290,200,true
+5300,2450,true
+5310,250,true
+5310,5300,true
+5310,1200,true
+5320,5530,true
+5320,5520,true
+5320,5450,true
+5320,5440,true
+5320,5410,true
+5320,5340,true
+5320,5380,true
+5320,5360,true
+5320,5350,true
+5320,5430,true
+5320,250,true
+5330,5580,true
+5330,5450,true
+5330,10,true
+5330,5400,true
+5330,5520,true
+5330,5430,true
+5330,5410,true
+5330,5350,true
+5330,5380,true
+5330,250,true
+5350,4510,true
+5350,250,true
+5350,5260,true
+5350,2640,true
+5350,2710,true
+5350,150,true
+5360,250,true
+5360,5400,true
+5370,5330,true
+5370,250,true
+5380,5580,true
+5380,770,true
+5380,250,true
+5400,2260,true
+5400,4590,true
+5400,250,true
+5410,4360,true
+5410,2800,true
+5410,5520,true
+5410,5340,true
+5410,5350,true
+5410,250,true
+5430,250,true
+5450,5430,true
+5450,5440,true
+5450,5490,true
+5450,5410,true
+5450,5520,true
+5450,5540,true
+5450,5580,true
+5450,770,true
+5450,250,true
+5460,5540,true
+5460,250,true
+5480,10,true
+5480,250,true
+5520,5290,true
+5520,5450,true
+5520,5530,true
+5520,5350,true
+5520,2880,true
+5520,5260,true
+5520,5250,true
+5520,5380,true
+5520,5280,true
+5520,2800,true
+5520,5410,true
+5520,4450,true
+5520,5580,true
+5520,250,true
+5520,10,true
+5530,2990,true
+5530,770,true
+5530,4450,true
+5530,3710,true
+5530,5580,true
+5530,270,true
+5530,250,true
+5530,2430,true
+5540,1200,true
+5540,4450,true
+5540,240,true
+5540,5460,true
+5550,3440,true
+5550,5520,true
+5550,250,true
+5560,250,true
+5570,250,true
+5580,3920,true
+5580,1800,true
+5580,5380,true
+5580,1820,true
+5580,5520,true
+5580,4170,true
+5580,5450,true
+5580,120,true
+5580,110,true
+5580,210,true
+5580,4450,true
+5580,2430,true
+5580,250,true
+5580,5050,true
+5580,2990,true
+5580,4050,true
+5590,2540,true
+5590,170,true
+5590,1420,true
+5590,220,true
+5590,230,true
+5590,3700,true
+5590,240,true
+5590,720,true
+5590,150,true
+5590,2640,true
+5590,10,true
+5590,2990,true
+5590,210,true
+5590,5650,true
+5590,990,true
+5590,260,true
+5590,140,true
+5590,1070,true
+5600,260,true
+5600,5650,true
+5600,5640,true
+5610,5650,true
+5610,5630,true
+5620,5640,true
+5620,5650,true
+5630,5610,true
+5630,5640,true
+5630,5650,true
+5630,260,true
+5640,5630,true
+5640,5650,true
+5640,1590,true
+5650,5610,true
+5650,5630,true
+5650,5640,true
+5650,260,true
+5670,2870,true
+5690,220,true
+5690,2430,true
+5700,5780,true
+5700,5790,true
+5700,5820,true
+5700,5720,true
+5700,2430,true
+5700,5750,true
+5700,270,true
+5710,5750,true
+5710,270,true
+5710,5770,true
+5720,5800,true
+5720,5750,true
+5720,5710,true
+5720,270,true
+5740,5800,true
+5740,5710,true
+5740,270,true
+5750,5800,true
+5750,5710,true
+5760,5680,true
+5760,270,true
+5770,5710,true
+5780,5710,true
+5780,270,true
+5780,5770,true
+5790,5760,true
+5790,270,true
+5790,5820,true
+5800,5720,true
+5810,5730,true
+5810,5760,true
+5810,270,true
+5820,270,true
+5820,5760,true
+5820,5790,true
