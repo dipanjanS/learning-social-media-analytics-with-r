@@ -1,14 +1,7 @@
 # Learning Social Media Analytics with R
-### A Practical Real-World Approach to Gaining Actionable Insights from your Data
+### Transform data from Social Media Platforms into Actionable Insights
 
-Text analytics can be a bit overwhelming and frustrating at times
-with the unstructured and noisy nature of textual data and the 
-vast amount of information available. 
-"Text Analytics with Python" is a book packed with 385 pages of useful information 
-based on techniques, algorithms, experiences and various lessons learnt over time 
-in analyzing text data. This repository contains datasets and code used in this book.
-I will also be adding various notebooks and bonus content here from time to time. 
-Keep watching this space!
+Dive into the world of social media and learn the art and science behind leveraging the power of R and analytics to transform data into actionable insights. This book will provide you with detailed strategies, workflows and hands-on approaches to tap into data from diverse social media platforms and showcase the power of leveraging analytics to get insightful information. This repository contains datasets and code used in this book. We will also be adding various notebooks and bonus content here from time to time. Keep watching this space!
 
 
 ## Get the book 
