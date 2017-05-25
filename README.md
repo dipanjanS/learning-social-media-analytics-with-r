@@ -10,9 +10,8 @@ TBA
 
 ## About the book 
 <a target="_blank" href="#">
-  <img src="./image_gallery/front_cover.png" alt="Book Cover" width="250" align="left"/>
+  <img src="./image_gallery/front_cover.png" alt="Book Cover" width="350" align="left"/>
 </a>
-
 The Internet has truly become humongous, especially with the rise of various forms of social media in the last decade, which give users a platform to express themselves and also communicate and collaborate with each other. This book will help the reader to understand the current social media landscape and to learn how analytics can be leveraged to derive insights from it. This data can be analyzed to gain valuable insights into the behavior and engagement of users, organizations, businesses, and brands. It will help readers frame business problems and solve them using social data.
 
 The book will also cover several practical real-world use cases on social media using R and its advanced packages to utilize data science methodologies such as sentiment analysis, topic modeling, text summarization, recommendation systems, social network analysis, classification, and clustering. This will enable readers to learn different hands-on approaches to obtain data from diverse social media sources such as Twitter and Facebook. It will also show readers how to establish detailed workflows to process, visualize, and analyze data to transform social data into actionable insights.
