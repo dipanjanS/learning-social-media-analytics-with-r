@@ -4,11 +4,23 @@
 Dive into the world of social media and learn the art and science behind leveraging the power of R and analytics to transform data into actionable insights. This book will provide you with detailed strategies, workflows and hands-on approaches to tap into data from diverse social media platforms and showcase the power of leveraging analytics to get insightful information. This repository contains datasets and code used in this book. We will also be adding various notebooks and bonus content here from time to time. Keep watching this space!
 
 
-## Get the book 
-TBA
+## Get the book
+<div>
+<a target="_blank" href="https://www.packtpub.com/big-data-and-business-intelligence/learning-social-media-analytics-r">
+  <img src="./image_gallery/packt_logo.png" alt="packt" align="left"/>
+</a>
+<a target="_blank" href="https://www.safaribooksonline.com/library/view/learning-social-media/9781787127524/">
+  <img src="./image_gallery/safari_logo.jpg" alt="safari" align="left"/>
+</a>
+<a target="_blank" href="https://www.amazon.com/Learning-Social-Media-Analytics-R/dp/1787127524/ref=sr_1_1?ie=UTF8&qid=1498661417&sr=8-1&keywords=learning+social+media+analytics+with+r">
+  <img src="./image_gallery/amazon_logo.jpg" alt="amazon" align="left"/>
+</a>
+<br>
+</div>
+<br><br><br>
 <br><br>
 
-## About the book 
+## About the book
 <a target="_blank" href="#">
   <img src="./image_gallery/front_cover.png" alt="Book Cover" width="350" align="left"/>
 </a>
@@ -18,7 +30,7 @@ The book will also cover several practical real-world use cases on social media 
 
 <div style='font-size:0.5em;'><sup>
 Edition: 1st &emsp; Pages: 394 &emsp; Language: English<br/>
-Book Title: Learning Social Media Analytics with R &emsp; Publisher: Packt<br/> 
+Book Title: Learning Social Media Analytics with R &emsp; Publisher: Packt<br/>
 Copyright: Sarkar, Bali & Sharma &emsp; ISBN 13: 9781787127524<br/>
 </div>
 
