@@ -1,4 +1,4 @@
-# Chapter 6: Flickr
+# Chapter 7: Flickr
 #### Believe What You See
 
 This chapter covers the following topics through working examples:
