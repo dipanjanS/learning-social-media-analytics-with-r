@@ -5,20 +5,19 @@ Dive into the world of social media and learn the art and science behind leverag
 
 
 ## Get the book
-<div>
-<a target="_blank" href="https://www.packtpub.com/big-data-and-business-intelligence/learning-social-media-analytics-r">
-  <img src="./image_gallery/packt_logo.png" alt="packt" align="left"/>
-</a>
-<a target="_blank" href="https://www.safaribooksonline.com/library/view/learning-social-media/9781787127524/">
-  <img src="./image_gallery/safari_logo.jpg" alt="safari" align="left"/>
-</a>
-<a target="_blank" href="https://www.amazon.com/Learning-Social-Media-Analytics-R/dp/1787127524/ref=sr_1_1?ie=UTF8&qid=1498661417&sr=8-1&keywords=learning+social+media+analytics+with+r">
-  <img src="./image_gallery/amazon_logo.jpg" alt="amazon" align="left"/>
-</a>
-<br>
-</div>
-<br><br><br>
-<br><br>
+<table style="width:100%" >
+  <tr>
+    <td><a target="_blank" href="https://www.packtpub.com/big-data-and-business-intelligence/learning-social-media-analytics-r">
+    <img src="./image_gallery/packt_logo.png" alt="packt" align="left"/>
+    </a></td>
+    <td><a target="_blank" href="https://www.safaribooksonline.com/library/view/learning-social-media/9781787127524/">
+    <img src="./image_gallery/safari_logo.png" alt="safari" align="left"/>
+    </a></td>
+    <td><a target="_blank" href="https://www.amazon.com/Learning-Social-Media-Analytics-R/dp/1787127524/ref=sr_1_1?ie=UTF8&qid=1498661417&sr=8-1&keywords=learning+social+media+analytics+with+r">
+      <img src="./image_gallery/amazon_logo.png" alt="amazon" align="left"/>
+    </a></td>
+  </tr>
+</table>
 
 ## About the book
 <a target="_blank" href="#">

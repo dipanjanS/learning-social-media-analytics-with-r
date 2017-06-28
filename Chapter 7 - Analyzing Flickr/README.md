@@ -6,4 +6,4 @@ This chapter covers the following topics through working examples:
 + Preprocessing Flickr data
 + Understanding and visualizing image EXIF data
 + Clustering similar images using metadata (using **K-Means** with elbow and silhouette methods)
-+ Understanding [Flickr interestingness]() and building a classifier to identify interesting images of the day (using **RandomForest**)
++ Understanding [Flickr interestingness](https://www.flickr.com/explore/interesting/) and building a classifier to identify interesting images of the day (using **RandomForest**)
